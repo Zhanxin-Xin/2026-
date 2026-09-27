@@ -1,0 +1,62 @@
+{
+  "seed": 20260924,
+  "data": {
+    "max_length": 192,
+    "context_window": 2,
+    "num_workers": 0
+  },
+  "model": {
+    "pretrained_model": "microsoft/deberta-v3-small",
+    "local_files_only": true,
+    "gradient_checkpointing": true,
+    "fusion_dimension": 256,
+    "fusion_heads": 4,
+    "fusion_scale_logit": -2.0,
+    "prototype_mix_logit": -1.5,
+    "dropout": 0.15,
+    "use_context": true,
+    "use_audio": true,
+    "use_vision": true,
+    "use_prototype_router": true,
+    "use_hurdle": false,
+    "hurdle_mix": 0.2,
+    "audio_dimension": 74,
+    "vision_dimension": 35,
+    "adaptation_shift_scale": 0.5,
+    "context_shift_scale": 0.35
+  },
+  "training": {
+    "epochs": 8,
+    "batch_size": 8,
+    "eval_batch_size": 12,
+    "gradient_accumulation": 2,
+    "freeze_encoder_epochs": 1,
+    "encoder_learning_rate": 2e-05,
+    "head_learning_rate": 0.0002,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "grad_clip": 1.0,
+    "early_stopping_patience": 3,
+    "min_delta": 0.0001,
+    "amp": true,
+    "class_weight_power": 0.5,
+    "class_weight_max": 3.0
+  },
+  "loss": {
+    "classification": 1.0,
+    "regression": 0.3,
+    "pearson": 0.05,
+    "text_auxiliary": 0.1,
+    "neutral_auxiliary": 0.05,
+    "polarity_auxiliary": 0.05,
+    "hurdle_regression": 0.02,
+    "prototype_classification": 0.2,
+    "contrastive": 0.05,
+    "contrastive_temperature": 0.1,
+    "label_smoothing": 0.03
+  },
+  "selection": {
+    "accuracy": 0.4,
+    "macro_f1": 0.6
+  }
+}

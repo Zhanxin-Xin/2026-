@@ -1,0 +1,228 @@
+{
+  "scope": "grouped_meta_oof_then_locked_valid_no_test_access",
+  "method": "asymmetric_neutral_authenticity_arbitrator",
+  "invariants": [
+    "parent_non_neutral_predictions_are_unchanged",
+    "neutral_rejection_preserves_negative_positive_odds"
+  ],
+  "oof_sources": [
+    "runs\\oof\\exp105_parent_exp027_dynamic_router_phased_group5_p3_c1_seed_20260924\\train_oof_predictions.csv",
+    "runs\\oof\\exp114_parent_exp029_dynamic_router_three_stage_group5_p3_i1_f3_seed_20260924\\train_oof_predictions.csv",
+    "runs\\oof\\exp095_parent_exp020_base_group5_fixed3_seed_20260924\\train_oof_predictions.csv",
+    "runs\\oof\\exp095_parent_exp019_context_group5_fixed3_seed_20260924\\train_oof_predictions.csv",
+    "runs\\oof\\exp095_parent_exp022_twitter_group5_fixed1_seed_20260924\\train_oof_predictions.csv",
+    "runs\\oof\\exp099_parent_exp001_hafusion_group5_fixed5_seed_20260924\\train_oof_predictions.csv",
+    "runs\\oof\\exp108_parent_exp063_nli_neutral_hurdle_group5_fixed5_seed_20260924\\train_oof_predictions.csv"
+  ],
+  "valid_sources": [
+    "runs\\experiments\\exp027_deberta_base_dynamic_router_seed_20260924\\valid_predictions.csv",
+    "runs\\experiments\\exp029_deberta_base_dynamic_router_frozen_macro_capture_seed_20260924\\macro_checkpoint_eval\\valid_predictions.csv",
+    "runs\\experiments\\exp020_deberta_base_trimodal_prototype_seed_20260924\\valid_predictions.csv",
+    "runs\\experiments\\exp019_deberta_context_trimodal_prototype_seed_20260924\\valid_predictions.csv",
+    "runs\\experiments\\exp022_twitter_roberta_multiview_fusion_seed_20260924\\valid_predictions.csv",
+    "runs\\experiments\\exp001_text_vision_seed_20260924\\valid_predictions.csv",
+    "runs\\experiments\\exp063_nli_neutral_balanced_residual_hurdle_lora_seed_20260924\\valid_predictions.csv"
+  ],
+  "source_count": 7,
+  "neutral_bias": 0.0,
+  "logistic_c": 0.1,
+  "selected_oof_authenticity_threshold": 0.11192022056349935,
+  "oof_rejected_neutral_count": 1,
+  "oof_parent": {
+    "accuracy": 0.6916053019145803,
+    "f1": 0.6635013211575586,
+    "macro_f1": 0.6635013211575586,
+    "weighted_f1": 0.6948425500857772,
+    "balanced_accuracy": 0.6678259424702042,
+    "mae": 0.5292400403185712,
+    "rmse": 0.7014847634845842,
+    "regression_bias": -0.01698515663332699,
+    "pearson": 0.7808586649120678,
+    "per_class": {
+      "Negative": {
+        "precision": 0.7333333333333333,
+        "recall": 0.7621509824198552,
+        "f1": 0.7474645030425964,
+        "support": 967
+      },
+      "Neutral": {
+        "precision": 0.4598802395209581,
+        "recall": 0.5065963060686016,
+        "f1": 0.4821092278719397,
+        "support": 758
+      },
+      "Positive": {
+        "precision": 0.7890675241157556,
+        "recall": 0.7347305389221557,
+        "f1": 0.7609302325581395,
+        "support": 1670
+      }
+    },
+    "confusion_matrix": [
+      [
+        737,
+        138,
+        92
+      ],
+      [
+        138,
+        384,
+        236
+      ],
+      [
+        130,
+        313,
+        1227
+      ]
+    ]
+  },
+  "oof": {
+    "accuracy": 0.691899852724595,
+    "f1": 0.6638138779881878,
+    "macro_f1": 0.6638138779881878,
+    "weighted_f1": 0.6950909846624712,
+    "balanced_accuracy": 0.6681706511913349,
+    "mae": 0.5292400403185712,
+    "rmse": 0.7014847634845842,
+    "regression_bias": -0.01698515663332699,
+    "pearson": 0.7808586649120678,
+    "per_class": {
+      "Negative": {
+        "precision": 0.7335984095427436,
+        "recall": 0.7631851085832472,
+        "f1": 0.7480993411049164,
+        "support": 967
+      },
+      "Neutral": {
+        "precision": 0.460431654676259,
+        "recall": 0.5065963060686016,
+        "f1": 0.4824120603015075,
+        "support": 758
+      },
+      "Positive": {
+        "precision": 0.7890675241157556,
+        "recall": 0.7347305389221557,
+        "f1": 0.7609302325581395,
+        "support": 1670
+      }
+    },
+    "confusion_matrix": [
+      [
+        738,
+        137,
+        92
+      ],
+      [
+        138,
+        384,
+        236
+      ],
+      [
+        130,
+        313,
+        1227
+      ]
+    ]
+  },
+  "valid_parent": {
+    "accuracy": 0.7046703296703297,
+    "f1": 0.6852392265210584,
+    "macro_f1": 0.6852392265210584,
+    "weighted_f1": 0.7049235877439091,
+    "balanced_accuracy": 0.6828597607326055,
+    "mae": 0.49887882190932886,
+    "rmse": 0.6783594753582388,
+    "regression_bias": -0.011057739331526685,
+    "pearson": 0.7596172475761539,
+    "per_class": {
+      "Negative": {
+        "precision": 0.7794871794871795,
+        "recall": 0.7378640776699029,
+        "f1": 0.7581047381546134,
+        "support": 206
+      },
+      "Neutral": {
+        "precision": 0.5268817204301075,
+        "recall": 0.532608695652174,
+        "f1": 0.5297297297297298,
+        "support": 184
+      },
+      "Positive": {
+        "precision": 0.7579250720461095,
+        "recall": 0.7781065088757396,
+        "f1": 0.7678832116788321,
+        "support": 338
+      }
+    },
+    "confusion_matrix": [
+      [
+        152,
+        34,
+        20
+      ],
+      [
+        22,
+        98,
+        64
+      ],
+      [
+        21,
+        54,
+        263
+      ]
+    ]
+  },
+  "deployment_authenticity_threshold": 0.28616624178694333,
+  "deployment_threshold_fitted_on_valid": true,
+  "deployment_model": "neutral_authenticity_arbitrator.joblib",
+  "feature_dimension": 55,
+  "valid_rejected_neutral_count": 10,
+  "valid": {
+    "accuracy": 0.7115384615384616,
+    "f1": 0.6908057375625875,
+    "macro_f1": 0.6908057375625875,
+    "weighted_f1": 0.7101792816748299,
+    "balanced_accuracy": 0.6875972559764812,
+    "mae": 0.49887882190932886,
+    "rmse": 0.6783594753582388,
+    "regression_bias": -0.011057739331526685,
+    "pearson": 0.7596172475761539,
+    "per_class": {
+      "Negative": {
+        "precision": 0.7806122448979592,
+        "recall": 0.7427184466019418,
+        "f1": 0.7611940298507462,
+        "support": 206
+      },
+      "Neutral": {
+        "precision": 0.5511363636363636,
+        "recall": 0.5271739130434783,
+        "f1": 0.5388888888888889,
+        "support": 184
+      },
+      "Positive": {
+        "precision": 0.7528089887640449,
+        "recall": 0.7928994082840237,
+        "f1": 0.7723342939481268,
+        "support": 338
+      }
+    },
+    "confusion_matrix": [
+      [
+        153,
+        30,
+        23
+      ],
+      [
+        22,
+        97,
+        65
+      ],
+      [
+        21,
+        49,
+        268
+      ]
+    ]
+  }
+}

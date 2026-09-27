@@ -1,0 +1,87 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand*\HyPL@Entry[1]{}
+\HyPL@Entry{0<</S/D>>}
+\@writefile{toc}{\contentsline {section}{\numberline {1}问题三的建模分析与求解}{1}{section.1}\protected@file@percent }
+\newlabel{sec:q3}{{1}{1}{问题三的建模分析与求解}{section.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}问题描述与任务分析}{1}{subsection.1.1}\protected@file@percent }
+\newlabel{eq:q3_input}{{1}{1}{问题描述与任务分析}{equation.1.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces 三模态输入特征}}{1}{table.1}\protected@file@percent }
+\newlabel{tab:q3_input_features}{{1}{1}{三模态输入特征}{table.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}数据审计与总体建模思路}{1}{subsection.1.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces 数据集划分及类别分布}}{2}{table.2}\protected@file@percent }
+\newlabel{tab:q3_dataset_split}{{2}{2}{数据集划分及类别分布}{table.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces 连续标签统计}}{2}{table.3}\protected@file@percent }
+\newlabel{tab:q3_label_statistics}{{3}{2}{连续标签统计}{table.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces 数据集类别分布与连续情感强度分布}}{2}{figure.1}\protected@file@percent }
+\newlabel{fig:q3_data_distribution}{{1}{2}{数据集类别分布与连续情感强度分布}{figure.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces 问题三冻结预测与解释总体框架}}{3}{figure.2}\protected@file@percent }
+\newlabel{fig:q3_framework}{{2}{3}{问题三冻结预测与解释总体框架}{figure.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}C$^3$-HAFusion 基础可解释模型}{3}{subsection.1.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.3.1}统一表征与模态内时序编码}{3}{subsubsection.1.3.1}\protected@file@percent }
+\newlabel{eq:q3_temporal}{{2}{3}{统一表征与模态内时序编码}{equation.1.2}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.3.2}一致性与冲突关系}{3}{subsubsection.1.3.2}\protected@file@percent }
+\newlabel{eq:q3_conflict}{{3}{3}{一致性与冲突关系}{equation.1.3}{}}
+\newlabel{eq:q3_pair}{{5}{3}{一致性与冲突关系}{equation.1.5}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.3.3}局部证据与层次自适应融合}{4}{subsubsection.1.3.3}\protected@file@percent }
+\newlabel{eq:q3_local_pool}{{6}{4}{局部证据与层次自适应融合}{equation.1.6}{}}
+\newlabel{eq:q3_modality_gate}{{7}{4}{局部证据与层次自适应融合}{equation.1.7}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.3.4}分类与回归联合预测}{4}{subsubsection.1.3.4}\protected@file@percent }
+\newlabel{eq:q3_prediction}{{9}{4}{分类与回归联合预测}{equation.1.9}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.4}EXP183 异构共识与 Neutral 真实性仲裁}{4}{subsection.1.4}\protected@file@percent }
+\newlabel{eq:q3_parent}{{10}{4}{EXP183 异构共识与 Neutral 真实性仲裁}{equation.1.10}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces 基础 C$^3$-HAFusion 与最终 EXP183 部署结构边界}}{5}{figure.3}\protected@file@percent }
+\newlabel{fig:q3_architecture}{{3}{5}{基础 C$^3$-HAFusion 与最终 EXP183 部署结构边界}{figure.3}{}}
+\newlabel{eq:q3_arbitrator}{{11}{5}{EXP183 异构共识与 Neutral 真实性仲裁}{equation.1.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.5}目标函数与训练求解}{5}{subsection.1.5}\protected@file@percent }
+\newlabel{eq:q3_loss}{{12}{5}{目标函数与训练求解}{equation.1.12}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces 模型与训练主要参数}}{6}{table.4}\protected@file@percent }
+\newlabel{tab:q3_hyperparameters}{{4}{6}{模型与训练主要参数}{table.4}{}}
+\@writefile{toc}{\contentsline {paragraph}{训练流程（Algorithm 1）}{7}{paragraph*.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.6}结构对比、组件干预与稳定性}{7}{subsection.1.6}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces 实际实现的结构与融合路线测试集对比}}{7}{table.5}\protected@file@percent }
+\newlabel{tab:q3_fusion_comparison}{{5}{7}{实际实现的结构与融合路线测试集对比}{table.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces 冻结部署组件干预测试}}{8}{table.6}\protected@file@percent }
+\newlabel{tab:q3_ablation}{{6}{8}{冻结部署组件干预测试}{table.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces 冻结测试集组件干预与历史配置敏感性}}{8}{figure.4}\protected@file@percent }
+\newlabel{fig:q3_ablation_sensitivity}{{4}{8}{冻结测试集组件干预与历史配置敏感性}{figure.4}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces 联合任务损失的真实对比}}{9}{table.7}\protected@file@percent }
+\newlabel{tab:q3_multitask}{{7}{9}{联合任务损失的真实对比}{table.7}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces 随机种子稳定性测试}}{9}{table.8}\protected@file@percent }
+\newlabel{tab:q3_seed_stability}{{8}{9}{随机种子稳定性测试}{table.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.7}可解释性生成与可信度检验}{9}{subsection.1.7}\protected@file@percent }
+\newlabel{eq:q3_occlusion_importance}{{13}{9}{可解释性生成与可信度检验}{equation.1.13}{}}
+\newlabel{eq:q3_local_deletion}{{14}{9}{可解释性生成与可信度检验}{equation.1.14}{}}
+\newlabel{eq:q3_time_mapping}{{15}{9}{可解释性生成与可信度检验}{equation.1.15}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.8}测试集性能评价与错误归因}{10}{subsection.1.8}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces 冻结测试集主模型性能}}{10}{table.9}\protected@file@percent }
+\newlabel{tab:q3_main_performance}{{9}{10}{冻结测试集主模型性能}{table.9}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces 冻结测试集分类别性能}}{10}{table.10}\protected@file@percent }
+\newlabel{tab:q3_per_class}{{10}{10}{冻结测试集分类别性能}{table.10}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.9}模态作用差异、消融与解释结果}{10}{subsection.1.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces 冻结 EXP183 在测试集上的混淆矩阵}}{11}{figure.5}\protected@file@percent }
+\newlabel{fig:q3_confusion}{{5}{11}{冻结 EXP183 在测试集上的混淆矩阵}{figure.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces 冻结测试集连续强度预测与残差}}{11}{figure.6}\protected@file@percent }
+\newlabel{fig:q3_regression}{{6}{11}{冻结测试集连续强度预测与残差}{figure.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces 单模态与模态组合的测试集结果}}{12}{table.11}\protected@file@percent }
+\newlabel{tab:q3_modality_combinations}{{11}{12}{单模态与模态组合的测试集结果}{table.11}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {12}{\ignorespaces 冻结测试集模态遮挡结果}}{12}{table.12}\protected@file@percent }
+\newlabel{tab:q3_occlusion}{{12}{12}{冻结测试集模态遮挡结果}{table.12}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces 冻结测试集的整体与分类别模态作用程度}}{13}{figure.7}\protected@file@percent }
+\newlabel{fig:q3_modality_importance}{{7}{13}{冻结测试集的整体与分类别模态作用程度}{figure.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces 冻结测试集最终部署的模态遮挡实验}}{13}{figure.8}\protected@file@percent }
+\newlabel{fig:q3_occlusion}{{8}{13}{冻结测试集最终部署的模态遮挡实验}{figure.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.10}典型样本解释卡分析}{13}{subsection.1.10}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {13}{\ignorespaces 选定测试案例的局部证据删除结果}}{14}{table.13}\protected@file@percent }
+\newlabel{tab:q3_evidence_deletion}{{13}{14}{选定测试案例的局部证据删除结果}{table.13}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces 典型测试案例的局部删除证据与忠实性对照}}{15}{figure.9}\protected@file@percent }
+\newlabel{fig:q3_local_evidence}{{9}{15}{典型测试案例的局部删除证据与忠实性对照}{figure.9}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {14}{\ignorespaces 典型测试样本解释结果}}{15}{table.14}\protected@file@percent }
+\newlabel{tab:q3_cases}{{14}{15}{典型测试样本解释结果}{table.14}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces 典型测试错误样本的解释卡}}{15}{figure.10}\protected@file@percent }
+\newlabel{fig:q3_case_card}{{10}{15}{典型测试错误样本的解释卡}{figure.10}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.11}附件4全量预测与解释结果}{16}{subsection.1.11}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {15}{\ignorespaces 附件4预测结果示例}}{16}{table.15}\protected@file@percent }
+\newlabel{tab:q3_attachment4}{{15}{16}{附件4预测结果示例}{table.15}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.12}问题三小结}{16}{subsection.1.12}\protected@file@percent }
+\gdef \@abspage@last{16}

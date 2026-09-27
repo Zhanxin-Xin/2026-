@@ -1,0 +1,441 @@
+{
+  "data_path": "E:\\2026\\code\\code\\san2\\data\\aligned_50.pkl",
+  "labels_path": "E:\\2026\\code\\code\\san2\\data\\label.xlsx",
+  "mask_strategy": "text_shared",
+  "top_level_keys": [
+    "train",
+    "valid",
+    "test"
+  ],
+  "expected_dimensions": {
+    "text": 768,
+    "audio": 74,
+    "vision": 35
+  },
+  "label_sheet": {
+    "rows": 4850,
+    "columns": [
+      "video_id",
+      "clip_id",
+      "text",
+      "label",
+      "annotation",
+      "mode"
+    ],
+    "missing_cells": {
+      "video_id": 0,
+      "clip_id": 0,
+      "text": 0,
+      "label": 0,
+      "annotation": 0,
+      "mode": 0
+    },
+    "duplicate_ids": 0
+  },
+  "splits": {
+    "train": {
+      "samples": 3395,
+      "raw_fields": [
+        "raw_text",
+        "audio",
+        "vision",
+        "id",
+        "text_bert",
+        "classification_labels",
+        "regression_labels",
+        "text"
+      ],
+      "missing_expected_raw_fields": [
+        "annotations",
+        "length",
+        "mask"
+      ],
+      "derived_fields": [
+        "text_mask",
+        "audio_mask",
+        "vision_mask",
+        "length_from_text_bert_attention_mask"
+      ],
+      "unique_sample_ids": 3395,
+      "duplicate_sample_ids": 0,
+      "unique_video_ids": 1528,
+      "empty_raw_texts": 0,
+      "duplicate_nonempty_raw_text_rows": 13,
+      "unique_exact_feature_hashes": 3395,
+      "duplicate_exact_feature_rows": 0,
+      "mask": {
+        "source": "text_bert attention-mask channel",
+        "raw_unique_values": [
+          0,
+          1
+        ],
+        "zero_length_samples": 0,
+        "prefix_contiguity_violations": 0,
+        "length_min": 3,
+        "length_q1": 16.0,
+        "length_median": 22.0,
+        "length_q3": 32.0,
+        "length_max": 50
+      },
+      "labels": {
+        "class_unique_values": [
+          0,
+          1,
+          2
+        ],
+        "class_counts": {
+          "Negative": 967,
+          "Neutral": 758,
+          "Positive": 1670
+        },
+        "classification_sign_mismatches": 0,
+        "regression_nan_count": 0,
+        "regression_inf_count": 0,
+        "regression_out_of_range_count": 0,
+        "exact_zero_count": 758,
+        "excel_missing_ids": 0,
+        "excel_regression_mismatches": 0,
+        "excel_classification_mismatches": 0
+      },
+      "features": {
+        "text": {
+          "actual_shape": [
+            3395,
+            50,
+            768
+          ],
+          "expected_shape": [
+            3395,
+            50,
+            768
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 0,
+          "valid_region_all_zero_samples": 0,
+          "samples_with_nonzero_padding": 3142,
+          "max_abs_padding_value": 7.089296817779541
+        },
+        "audio": {
+          "actual_shape": [
+            3395,
+            50,
+            74
+          ],
+          "expected_shape": [
+            3395,
+            50,
+            74
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 0,
+          "valid_region_all_zero_samples": 0,
+          "samples_with_nonzero_padding": 0,
+          "max_abs_padding_value": 0.0
+        },
+        "vision": {
+          "actual_shape": [
+            3395,
+            50,
+            35
+          ],
+          "expected_shape": [
+            3395,
+            50,
+            35
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 110,
+          "valid_region_all_zero_samples": 110,
+          "samples_with_nonzero_padding": 0,
+          "max_abs_padding_value": 0.0
+        }
+      }
+    },
+    "valid": {
+      "samples": 728,
+      "raw_fields": [
+        "raw_text",
+        "audio",
+        "vision",
+        "id",
+        "text_bert",
+        "classification_labels",
+        "regression_labels",
+        "text"
+      ],
+      "missing_expected_raw_fields": [
+        "annotations",
+        "length",
+        "mask"
+      ],
+      "derived_fields": [
+        "text_mask",
+        "audio_mask",
+        "vision_mask",
+        "length_from_text_bert_attention_mask"
+      ],
+      "unique_sample_ids": 728,
+      "duplicate_sample_ids": 0,
+      "unique_video_ids": 239,
+      "empty_raw_texts": 0,
+      "duplicate_nonempty_raw_text_rows": 0,
+      "unique_exact_feature_hashes": 728,
+      "duplicate_exact_feature_rows": 0,
+      "mask": {
+        "source": "text_bert attention-mask channel",
+        "raw_unique_values": [
+          0,
+          1
+        ],
+        "zero_length_samples": 0,
+        "prefix_contiguity_violations": 0,
+        "length_min": 3,
+        "length_q1": 17.0,
+        "length_median": 23.5,
+        "length_q3": 33.0,
+        "length_max": 50
+      },
+      "labels": {
+        "class_unique_values": [
+          0,
+          1,
+          2
+        ],
+        "class_counts": {
+          "Negative": 206,
+          "Neutral": 184,
+          "Positive": 338
+        },
+        "classification_sign_mismatches": 0,
+        "regression_nan_count": 0,
+        "regression_inf_count": 0,
+        "regression_out_of_range_count": 0,
+        "exact_zero_count": 184,
+        "excel_missing_ids": 0,
+        "excel_regression_mismatches": 0,
+        "excel_classification_mismatches": 0
+      },
+      "features": {
+        "text": {
+          "actual_shape": [
+            728,
+            50,
+            768
+          ],
+          "expected_shape": [
+            728,
+            50,
+            768
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 0,
+          "valid_region_all_zero_samples": 0,
+          "samples_with_nonzero_padding": 681,
+          "max_abs_padding_value": 7.082085132598877
+        },
+        "audio": {
+          "actual_shape": [
+            728,
+            50,
+            74
+          ],
+          "expected_shape": [
+            728,
+            50,
+            74
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 0,
+          "valid_region_all_zero_samples": 0,
+          "samples_with_nonzero_padding": 0,
+          "max_abs_padding_value": 0.0
+        },
+        "vision": {
+          "actual_shape": [
+            728,
+            50,
+            35
+          ],
+          "expected_shape": [
+            728,
+            50,
+            35
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 15,
+          "valid_region_all_zero_samples": 15,
+          "samples_with_nonzero_padding": 0,
+          "max_abs_padding_value": 0.0
+        }
+      }
+    },
+    "test": {
+      "samples": 727,
+      "raw_fields": [
+        "raw_text",
+        "audio",
+        "vision",
+        "id",
+        "text_bert",
+        "classification_labels",
+        "regression_labels",
+        "text"
+      ],
+      "missing_expected_raw_fields": [
+        "annotations",
+        "length",
+        "mask"
+      ],
+      "derived_fields": [
+        "text_mask",
+        "audio_mask",
+        "vision_mask",
+        "length_from_text_bert_attention_mask"
+      ],
+      "unique_sample_ids": 727,
+      "duplicate_sample_ids": 0,
+      "unique_video_ids": 381,
+      "empty_raw_texts": 0,
+      "duplicate_nonempty_raw_text_rows": 0,
+      "unique_exact_feature_hashes": 727,
+      "duplicate_exact_feature_rows": 0,
+      "mask": {
+        "source": "text_bert attention-mask channel",
+        "raw_unique_values": [
+          0,
+          1
+        ],
+        "zero_length_samples": 0,
+        "prefix_contiguity_violations": 0,
+        "length_min": 4,
+        "length_q1": 16.0,
+        "length_median": 23.0,
+        "length_q3": 32.0,
+        "length_max": 50
+      },
+      "labels": {
+        "class_unique_values": [
+          0,
+          1,
+          2
+        ],
+        "class_counts": {
+          "Negative": 207,
+          "Neutral": 158,
+          "Positive": 362
+        },
+        "classification_sign_mismatches": 0,
+        "regression_nan_count": 0,
+        "regression_inf_count": 0,
+        "regression_out_of_range_count": 0,
+        "exact_zero_count": 158,
+        "excel_missing_ids": 0,
+        "excel_regression_mismatches": 0,
+        "excel_classification_mismatches": 0
+      },
+      "features": {
+        "text": {
+          "actual_shape": [
+            727,
+            50,
+            768
+          ],
+          "expected_shape": [
+            727,
+            50,
+            768
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 0,
+          "valid_region_all_zero_samples": 0,
+          "samples_with_nonzero_padding": 675,
+          "max_abs_padding_value": 7.069908142089844
+        },
+        "audio": {
+          "actual_shape": [
+            727,
+            50,
+            74
+          ],
+          "expected_shape": [
+            727,
+            50,
+            74
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 0,
+          "valid_region_all_zero_samples": 0,
+          "samples_with_nonzero_padding": 0,
+          "max_abs_padding_value": 0.0
+        },
+        "vision": {
+          "actual_shape": [
+            727,
+            50,
+            35
+          ],
+          "expected_shape": [
+            727,
+            50,
+            35
+          ],
+          "shape_ok": true,
+          "nan_count": 0,
+          "inf_count": 0,
+          "finite_fraction": 1.0,
+          "all_zero_samples": 28,
+          "valid_region_all_zero_samples": 28,
+          "samples_with_nonzero_padding": 0,
+          "max_abs_padding_value": 0.0
+        }
+      }
+    }
+  },
+  "cross_split_overlap": {
+    "sample_ids": {
+      "train__valid": 0,
+      "train__test": 0,
+      "valid__test": 0
+    },
+    "video_ids": {
+      "train__valid": 0,
+      "train__test": 0,
+      "valid__test": 0
+    },
+    "nonempty_raw_texts": {
+      "train__valid": 2,
+      "train__test": 0,
+      "valid__test": 0
+    },
+    "exact_feature_hashes": {
+      "train__valid": 0,
+      "train__test": 0,
+      "valid__test": 0
+    }
+  },
+  "all_split_sample_id_duplicates": 0
+}

@@ -1,0 +1,88 @@
+{
+  "seed": 20260924,
+  "data": {
+    "pkl_path": ".\\data\\aligned_50.pkl",
+    "mask_strategy": "text_shared",
+    "normalize_text": false,
+    "normalization_clip": 10.0,
+    "num_workers": 2,
+    "pin_memory": true
+  },
+  "model": {
+    "input_dims": {
+      "text": 768,
+      "audio": 74,
+      "vision": 35
+    },
+    "d_model": 192,
+    "n_heads": 6,
+    "n_layers": 2,
+    "ff_multiplier": 3,
+    "dropout": 0.2,
+    "conv_kernel_sizes": [
+      3,
+      5
+    ],
+    "sparse_attention": true,
+    "evidence_temperature": 0.8,
+    "use_cross_context": true,
+    "use_conflict_context": true,
+    "use_pairwise_evidence": true,
+    "fixed_modality_gate": false,
+    "enabled_modalities": [
+      "text",
+      "vision"
+    ]
+  },
+  "training": {
+    "epochs": 100,
+    "batch_size": 16,
+    "learning_rate": 0.00015,
+    "weight_decay": 0.0002,
+    "warmup_ratio": 0.03,
+    "grad_clip": 1.0,
+    "early_stopping_patience": 15,
+    "min_delta": 0.0001,
+    "amp": true,
+    "amp_init_scale": 16384,
+    "amp_growth_interval": 2000,
+    "max_amp_skipped_steps_per_epoch": 8,
+    "ema_decay": 0.995,
+    "distillation_temperature": 2.0,
+    "evidence_start_epoch": 8,
+    "distillation_start_epoch": 8,
+    "faithfulness_start_epoch": 15,
+    "curriculum_ramp_epochs": 10,
+    "label_smoothing": 0.03,
+    "span_mask_probability": 0.25,
+    "span_mask_max_ratio": 0.18,
+    "feature_noise_std": 0.01,
+    "faithfulness_every": 4,
+    "class_weight_power": 0.5,
+    "class_weight_max": 3.0
+  },
+  "loss": {
+    "classification": 1.0,
+    "regression": 1.0,
+    "pearson": 0.2,
+    "consistency": 0.12,
+    "attention_entropy": 0.008,
+    "attention_total_variation": 0.008,
+    "gate_balance": 0.003,
+    "faithfulness": 0.08,
+    "distillation": 0.15,
+    "interaction_l1": 0.003,
+    "unimodal_auxiliary": 0.15
+  },
+  "selection": {
+    "accuracy": 0.2,
+    "macro_f1": 0.3,
+    "mae": 0.2,
+    "pearson": 0.3
+  },
+  "explanation": {
+    "cumulative_mass": 0.7,
+    "max_segments_per_modality": 3,
+    "merge_gap": 1
+  }
+}

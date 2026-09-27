@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\caption{冻结测试集模态遮挡结果}
+\label{tab:q3_occlusion}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrr}
+\toprule
+Condition & Acc. & Macro-F1 & MAE & Pearson & Flip rate \\
+\midrule
+full & 0.7331 & 0.6903 & 0.5309 & 0.7831 & 0.0000 \\
+without\_text & 0.3906 & 0.3594 & 0.8689 & 0.2394 & 0.5433 \\
+without\_audio & 0.7318 & 0.6710 & 0.5350 & 0.7841 & 0.0825 \\
+without\_vision & 0.7263 & 0.6843 & 0.5339 & 0.7783 & 0.0757 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

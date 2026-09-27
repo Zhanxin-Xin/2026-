@@ -1,0 +1,112 @@
+{
+  "scope": "frozen_after_valid_then_one_shot_test",
+  "deployment": "runs\\calibration\\exp183_neutral_authenticity_valid_threshold_locked",
+  "test_sources": [
+    "runs\\final_test_sources\\exp183\\01_exp027\\test_predictions.csv",
+    "runs\\final_test_sources\\exp183\\02_exp029_macro\\test_predictions.csv",
+    "runs\\final_test_sources\\exp183\\03_exp020\\test_predictions.csv",
+    "runs\\final_test_sources\\exp183\\04_exp019\\test_predictions.csv",
+    "runs\\final_test_sources\\exp183\\05_exp022\\test_predictions.csv",
+    "runs\\experiments\\exp001_text_vision_seed_20260924\\test_predictions.csv",
+    "runs\\final_test_sources\\exp183\\07_exp063\\test_predictions.csv"
+  ],
+  "neutral_bias": 0.0,
+  "authenticity_threshold": 0.28616624178694333,
+  "test_rejected_neutral_count": 10,
+  "test_parent": {
+    "accuracy": 0.734525447042641,
+    "f1": 0.6970179815587173,
+    "macro_f1": 0.6970179815587173,
+    "weighted_f1": 0.7308788951348547,
+    "balanced_accuracy": 0.6958354575655269,
+    "mae": 0.5308763823636864,
+    "rmse": 0.7197617955809201,
+    "regression_bias": 0.007346553647160557,
+    "pearson": 0.7831292793539659,
+    "per_class": {
+      "Negative": {
+        "precision": 0.7674418604651163,
+        "recall": 0.7971014492753623,
+        "f1": 0.7819905213270142,
+        "support": 207
+      },
+      "Neutral": {
+        "precision": 0.5467625899280576,
+        "recall": 0.4810126582278481,
+        "f1": 0.5117845117845118,
+        "support": 158
+      },
+      "Positive": {
+        "precision": 0.7855227882037533,
+        "recall": 0.8093922651933702,
+        "f1": 0.7972789115646258,
+        "support": 362
+      }
+    },
+    "confusion_matrix": [
+      [
+        165,
+        19,
+        23
+      ],
+      [
+        25,
+        76,
+        57
+      ],
+      [
+        25,
+        44,
+        293
+      ]
+    ]
+  },
+  "test": {
+    "accuracy": 0.7331499312242091,
+    "f1": 0.6903469465620291,
+    "macro_f1": 0.6903469465620291,
+    "weighted_f1": 0.7272524945278468,
+    "balanced_accuracy": 0.6889701756110779,
+    "mae": 0.5308763823636864,
+    "rmse": 0.7197617955809201,
+    "regression_bias": 0.007346553647160557,
+    "pearson": 0.7831292793539659,
+    "per_class": {
+      "Negative": {
+        "precision": 0.7534246575342466,
+        "recall": 0.7971014492753623,
+        "f1": 0.7746478873239436,
+        "support": 207
+      },
+      "Neutral": {
+        "precision": 0.5503875968992248,
+        "recall": 0.44936708860759494,
+        "f1": 0.49477351916376305,
+        "support": 158
+      },
+      "Positive": {
+        "precision": 0.783641160949868,
+        "recall": 0.8204419889502762,
+        "f1": 0.8016194331983806,
+        "support": 362
+      }
+    },
+    "confusion_matrix": [
+      [
+        165,
+        19,
+        23
+      ],
+      [
+        28,
+        71,
+        59
+      ],
+      [
+        26,
+        39,
+        297
+      ]
+    ]
+  }
+}

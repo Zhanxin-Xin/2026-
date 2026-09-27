@@ -1,0 +1,19 @@
+{
+  "experiment": "EXP183",
+  "locked_before_test": true,
+  "architecture": "strict7 vote/probability consensus plus asymmetric Neutral-authenticity arbitrator",
+  "invariants": [
+    "non-Neutral parent decisions cannot change",
+    "rejected Neutral decisions preserve parent Negative/Positive odds"
+  ],
+  "arbitrator_training": "strict grouped train OOF only",
+  "validation_fitted_parameters": {
+    "authenticity_threshold": 0.28616624178694333
+  },
+  "validation": {
+    "accuracy": 0.7115384615384616,
+    "macro_f1": 0.6908057375625875,
+    "rejected_neutral_count": 10
+  },
+  "test_accessed_at_lock_time": false
+}

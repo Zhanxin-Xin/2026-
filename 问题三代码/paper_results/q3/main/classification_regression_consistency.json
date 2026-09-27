@@ -1,0 +1,7 @@
+{
+  "epsilon_selected_on_validation": 0.149,
+  "validation_regression_implied_class_accuracy": 0.6881868131868132,
+  "test_classification_regression_consistency_rate": 0.8762035763411279,
+  "test_regression_implied_class_accuracy": 0.734525447042641,
+  "test_used_to_select_epsilon": false
+}

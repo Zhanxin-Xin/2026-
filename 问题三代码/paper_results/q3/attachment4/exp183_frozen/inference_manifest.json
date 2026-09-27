@@ -1,0 +1,52 @@
+{
+  "scope": "unlabeled_attachment4_frozen_exp183_inference",
+  "sample_count": 20,
+  "labels_used": false,
+  "metrics_computed": false,
+  "checkpoint_files": [
+    "E:\\2026\\code\\code\\san2\\delivery\\SAN2_EXP183_complete\\models\\01_exp027_best_model.pt",
+    "E:\\2026\\code\\code\\san2\\delivery\\SAN2_EXP183_complete\\models\\02_exp029_best_macro_model.pt",
+    "E:\\2026\\code\\code\\san2\\delivery\\SAN2_EXP183_complete\\models\\03_exp020_best_model.pt",
+    "E:\\2026\\code\\code\\san2\\delivery\\SAN2_EXP183_complete\\models\\04_exp019_best_model.pt",
+    "E:\\2026\\code\\code\\san2\\delivery\\SAN2_EXP183_complete\\models\\05_exp022_best_model.pt",
+    "E:\\2026\\code\\code\\san2\\delivery\\SAN2_EXP183_complete\\models\\06_exp001_best_model.pt",
+    "E:\\2026\\code\\code\\san2\\delivery\\SAN2_EXP183_complete\\models\\07_exp063_best_model.pt"
+  ],
+  "deployment": "E:\\2026\\code\\code\\san2\\delivery\\SAN2_EXP183_complete\\deployment",
+  "data": "E:\\2026\\code\\code\\san2\\data\\附件4\\对齐版本",
+  "video_root": "E:\\2026\\code\\code\\san2\\data\\附件4\\对齐版本\\videos",
+  "interventions": {
+    "text": "blank raw_text and zero the aligned 50x768 text representation",
+    "audio": "zero the aligned 50x74 acoustic representation",
+    "vision": "zero the aligned 50x35 visual representation",
+    "importance": "normalize half absolute frozen-class confidence change plus half absolute intensity change / 3"
+  },
+  "class_counts": {
+    "Negative": 6,
+    "Neutral": 3,
+    "Positive": 11
+  },
+  "dominant_modality_counts": {
+    "text": 18,
+    "audio": 0,
+    "vision": 2
+  },
+  "mean_modality_importance": {
+    "text": 0.773532784802474,
+    "audio": 0.0767347846421769,
+    "vision": 0.14973243055534907
+  },
+  "video_mapping_found": 20,
+  "local_evidence_status": "pending pipeline-level evidence-deletion pass",
+  "outputs": {
+    "csv": "attachment4_predictions.csv",
+    "xlsx": "attachment4_predictions.xlsx",
+    "member_predictions": "member_predictions/",
+    "condition_predictions": [
+      "exp183_full_predictions.csv",
+      "exp183_text_predictions.csv",
+      "exp183_audio_predictions.csv",
+      "exp183_vision_predictions.csv"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "scope": "frozen_exp183_pipeline_local_evidence",
+  "sample_count": 20,
+  "single_position_variant_count": 1812,
+  "labels_used": false,
+  "test_used_for_model_selection": false,
+  "local_evidence_definition": "0.5*abs(frozen-class confidence change) + 0.5*abs(predicted-intensity change)/3 after deleting one aligned position",
+  "text_deletion": "zero aligned text position and delete its proportionally mapped word when applicable",
+  "time_mapping": "proportional to video duration; not an original frame timestamp",
+  "joint_deletion_completed": true,
+  "outputs": {
+    "local_evidence": "local_evidence.csv",
+    "explanation_summary": "explanation_summary.csv",
+    "evidence_deletion": "evidence_deletion_results.csv",
+    "enriched_predictions": "predictions_with_local_explanations.csv"
+  }
+}

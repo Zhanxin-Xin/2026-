@@ -1,0 +1,58 @@
+{
+  "seed": 20260924,
+  "data": {
+    "max_length": 128,
+    "num_workers": 0
+  },
+  "model": {
+    "pretrained_model": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
+    "revision": "6f5cf0a2b59cabb106aca4c287eed12e357e90eb",
+    "local_files_only": true,
+    "gradient_checkpointing": true,
+    "hypotheses": [
+      "The speaker expresses negative sentiment.",
+      "The speaker expresses neither positive nor negative sentiment.",
+      "The speaker expresses positive sentiment."
+    ],
+    "use_neutral_hurdle": true,
+    "neutral_hurdle_residual": true,
+    "neutral_hurdle_hidden": 24,
+    "lora_rank": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.08,
+    "lora_target_modules": [
+      "query_proj",
+      "value_proj"
+    ],
+    "log_temperature": 0.0,
+    "regression_hidden": 16,
+    "dropout": 0.1
+  },
+  "training": {
+    "epochs": 6,
+    "batch_size": 4,
+    "eval_batch_size": 12,
+    "gradient_accumulation": 4,
+    "adapter_learning_rate": 5e-05,
+    "head_learning_rate": 0.0002,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "grad_clip": 1.0,
+    "early_stopping_patience": 2,
+    "min_delta": 0.0001,
+    "amp": true,
+    "class_weight_power": 0.5,
+    "class_weight_max": 3.0
+  },
+  "loss": {
+    "classification": 1.0,
+    "regression": 0.1,
+    "neutral_binary": 0.2,
+    "neutral_pos_weight": 3.478891820580475,
+    "label_smoothing": 0.03
+  },
+  "selection": {
+    "accuracy": 0.4,
+    "macro_f1": 0.6
+  }
+}

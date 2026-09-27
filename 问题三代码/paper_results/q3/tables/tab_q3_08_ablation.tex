@@ -1,0 +1,19 @@
+\begin{table}[htbp]
+\centering
+\caption{冻结部署组件干预测试}
+\label{tab:q3_ablation}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrr}
+\toprule
+Intervention & Acc. & Macro-F1 & MAE & Pearson \\
+\midrule
+Full EXP183 & 0.7331 & 0.6903 & 0.5309 & 0.7831 \\
+Without Neutral arbitrator (parent) & 0.7345 & 0.6970 & 0.5309 & 0.7831 \\
+Without Text & 0.3906 & 0.3594 & 0.8689 & 0.2394 \\
+Without Audio & 0.7318 & 0.6710 & 0.5350 & 0.7841 \\
+Without Vision & 0.7263 & 0.6843 & 0.5339 & 0.7783 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

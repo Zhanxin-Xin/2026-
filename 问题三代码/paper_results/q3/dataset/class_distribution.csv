@@ -1,0 +1,4 @@
+﻿split,Negative,Neutral,Positive,Total
+train,967,758,1670,3395
+valid,206,184,338,728
+test,207,158,362,727

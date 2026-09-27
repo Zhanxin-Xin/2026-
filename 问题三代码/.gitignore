@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.env
+*.log
+
+# Large generated artifacts are kept locally and are not stored in GitHub.
+models/*.pt
+data/aligned_50.pkl

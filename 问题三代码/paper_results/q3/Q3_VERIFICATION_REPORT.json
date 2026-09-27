@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "formal_test": {
+    "accuracy": 0.7331499312242091,
+    "macro_f1": 0.6903469465620291,
+    "mae": 0.5308763823636864,
+    "pearson": 0.7831292793539659
+  },
+  "attachment4_rows": 20,
+  "attachment4_unique_ids": 20,
+  "keyframe_count": 42,
+  "figure_groups": 18,
+  "latex_tables": 15
+}

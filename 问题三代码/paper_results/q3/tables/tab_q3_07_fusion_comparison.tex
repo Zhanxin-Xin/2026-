@@ -1,0 +1,24 @@
+\begin{table}[htbp]
+\centering
+\caption{实际实现的结构与融合路线测试集对比}
+\label{tab:q3_fusion_comparison}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrr}
+\toprule
+Route & Acc. & Macro-F1 & MAE & Pearson \\
+\midrule
+Single C3-HAFusion & 0.6657 & 0.6093 & 0.6175 & 0.6988 \\
+Dynamic-router trimodal & 0.7180 & 0.6870 & 0.5608 & 0.7573 \\
+Dynamic-router macro checkpoint & 0.6988 & 0.6640 & 0.5688 & 0.7551 \\
+Trimodal prototype fusion & 0.7125 & 0.6509 & 0.5967 & 0.7565 \\
+Context trimodal prototype & 0.6795 & 0.6526 & 0.5538 & 0.7605 \\
+Twitter-RoBERTa multiview & 0.7084 & 0.6429 & 0.5840 & 0.7396 \\
+Text-vision C3-HAFusion & 0.6795 & 0.6358 & 0.6141 & 0.7046 \\
+NLI semantic expert & 0.7001 & 0.6766 & 0.6582 & 0.6987 \\
+EXP009 probability average & 0.6754 & 0.6375 & 0.6150 & 0.7053 \\
+EXP183 heterogeneous consensus + arbitrator & 0.7331 & 0.6903 & 0.5309 & 0.7831 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

@@ -1,0 +1,17 @@
+\begin{table}[htbp]
+\centering
+\caption{冻结测试集主模型性能}
+\label{tab:q3_main_performance}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Model & Acc. & Macro-F1 & Weighted-F1 & Bal. Acc. & MAE & RMSE & Bias & Pearson \\
+\midrule
+Single C3-HAFusion & 0.6657 & 0.6093 & 0.6598 & 0.6092 & 0.6175 & 0.8356 & 0.0570 & 0.6988 \\
+EXP169 parent consensus & 0.7345 & 0.6970 & 0.7309 & 0.6958 & 0.5309 & 0.7198 & 0.0073 & 0.7831 \\
+EXP183 frozen deployment & 0.7331 & 0.6903 & 0.7273 & 0.6890 & 0.5309 & 0.7198 & 0.0073 & 0.7831 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

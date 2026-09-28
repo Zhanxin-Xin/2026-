@@ -1,0 +1,53 @@
+data:
+  path: "datasets/attachment2/aligned_50.pkl"
+  num_workers: 0
+
+model:
+  hidden_dim: 96
+  shared_dim: 64
+  private_dim: 32
+  fusion_dim: 96
+  max_length: 50
+  nhead: 4
+  num_layers: 1
+  dim_feedforward: 192
+  dropout: 0.1
+  fusion_dropout: 0.2
+  use_proxy: true
+  use_shared_specific: true
+  use_reliability: true
+  use_hierarchical: true
+
+augmentation:
+  train_ratio_range: [0.10, 0.60]
+  double_interval_mode: random
+  validation_ratio: 0.30
+  validation_seed: 3042
+
+loss:
+  lambda_regression: 0.7
+  lambda_proxy: 0.10
+  lambda_consistency: 0.08
+  lambda_representation: 0.05
+  lambda_private_modality: 0.02
+  lambda_orthogonality: 0.01
+  lambda_shared_alignment: 0.01
+  label_smoothing: 0.02
+
+training:
+  epochs: 100
+  batch_size: 64
+  lr: 0.0001
+  weight_decay: 0.0001
+  grad_clip: 1.0
+  early_stopping: 20
+  seed: 42
+  amp: true
+  ema_decay: 0.98
+
+output:
+  best_checkpoint: "checkpoints/best_model.pth"
+  last_checkpoint: "checkpoints/last_model.pth"
+  history_path: "results/history.csv"
+  log_path: "logs/train.log"
+  test_metrics: "results/test_metrics.json"

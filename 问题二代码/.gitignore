@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and editor files
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Local models and official datasets
+.hf_model/
+datasets/
+*.pkl
+
+# Generated artifacts
+.mplconfig/
+checkpoints/*
+results/*
+figures/*
+logs/*
+!checkpoints/.gitkeep
+!results/.gitkeep
+!figures/.gitkeep
+!logs/.gitkeep
+
+# Archives and temporary files
+*.zip
+*.tar
+*.tar.gz
+*.tmp
+

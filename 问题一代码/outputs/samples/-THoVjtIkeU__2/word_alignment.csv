@@ -1,0 +1,11 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,I,0.044,0.11,0.936,True
+1,1,think,0.176,0.506,0.878,True
+2,2,social,1.321,1.607,0.756,True
+3,3,justice,1.651,1.981,0.906,True
+4,4,is,2.047,2.135,0.796,True
+5,5,extremely,2.179,2.597,0.906,True
+6,6,important,2.663,3.081,0.893,True
+7,7,for,3.147,3.345,0.822,True
+8,8,young,3.411,3.61,0.886,True
+9,9,people.,3.654,3.962,0.844,True

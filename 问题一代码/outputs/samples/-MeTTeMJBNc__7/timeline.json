@@ -1,0 +1,494 @@
+{
+  "sample_key": "-MeTTeMJBNc__7",
+  "video_path": "/root/HuaWeiCup/dataset/-MeTTeMJBNc/7.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 17.367,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "Maybe",
+      "start": 0.902,
+      "end": 1.269,
+      "score": 0.933,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "you",
+      "start": 1.336,
+      "end": 1.57,
+      "score": 0.85,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "could",
+      "start": 1.603,
+      "end": 1.97,
+      "score": 0.614,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "find",
+      "start": 2.605,
+      "end": 3.173,
+      "score": 0.734,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "a",
+      "start": 3.24,
+      "end": 3.306,
+      "score": 0.512,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "picture",
+      "start": 3.407,
+      "end": 4.041,
+      "score": 0.857,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "of",
+      "start": 4.108,
+      "end": 4.242,
+      "score": 0.678,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "the",
+      "start": 4.308,
+      "end": 4.442,
+      "score": 0.939,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "couple",
+      "start": 4.509,
+      "end": 5.143,
+      "score": 0.89,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "from",
+      "start": 5.277,
+      "end": 5.711,
+      "score": 0.67,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "their",
+      "start": 5.744,
+      "end": 6.513,
+      "score": 0.811,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "wedding",
+      "start": 6.579,
+      "end": 7.414,
+      "score": 0.92,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "or",
+      "start": 7.748,
+      "end": 7.949,
+      "score": 0.668,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "sometime",
+      "start": 8.183,
+      "end": 8.917,
+      "score": 0.836,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "in",
+      "start": 8.984,
+      "end": 9.084,
+      "score": 0.756,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "their",
+      "start": 9.151,
+      "end": 9.452,
+      "score": 0.862,
+      "valid": true,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "life,",
+      "start": 9.552,
+      "end": 10.153,
+      "score": 0.849,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "or",
+      "start": 10.287,
+      "end": 10.387,
+      "score": 0.997,
+      "valid": true,
+      "source_word_index": 17
+    },
+    {
+      "aligned_index": 18,
+      "word": "maybe",
+      "start": 10.454,
+      "end": 10.854,
+      "score": 0.836,
+      "valid": true,
+      "source_word_index": 18
+    },
+    {
+      "aligned_index": 19,
+      "word": "even",
+      "start": 10.988,
+      "end": 11.289,
+      "score": 0.821,
+      "valid": true,
+      "source_word_index": 19
+    },
+    {
+      "aligned_index": 20,
+      "word": "a",
+      "start": 11.355,
+      "end": 11.389,
+      "score": 0.995,
+      "valid": true,
+      "source_word_index": 20
+    },
+    {
+      "aligned_index": 21,
+      "word": "current",
+      "start": 11.556,
+      "end": 12.19,
+      "score": 0.726,
+      "valid": true,
+      "source_word_index": 21
+    },
+    {
+      "aligned_index": 22,
+      "word": "picture",
+      "start": 12.29,
+      "end": 13.025,
+      "score": 0.775,
+      "valid": true,
+      "source_word_index": 22
+    },
+    {
+      "aligned_index": 23,
+      "word": "and",
+      "start": 13.693,
+      "end": 13.827,
+      "score": 0.953,
+      "valid": true,
+      "source_word_index": 23
+    },
+    {
+      "aligned_index": 24,
+      "word": "have",
+      "start": 13.894,
+      "end": 14.094,
+      "score": 0.718,
+      "valid": true,
+      "source_word_index": 24
+    },
+    {
+      "aligned_index": 25,
+      "word": "it",
+      "start": 14.161,
+      "end": 14.261,
+      "score": 0.006,
+      "valid": true,
+      "source_word_index": 25
+    },
+    {
+      "aligned_index": 26,
+      "word": "put",
+      "start": 14.328,
+      "end": 14.595,
+      "score": 0.967,
+      "valid": true,
+      "source_word_index": 26
+    },
+    {
+      "aligned_index": 27,
+      "word": "in",
+      "start": 14.662,
+      "end": 14.762,
+      "score": 0.747,
+      "valid": true,
+      "source_word_index": 27
+    },
+    {
+      "aligned_index": 28,
+      "word": "a",
+      "start": 14.795,
+      "end": 14.862,
+      "score": 0.492,
+      "valid": true,
+      "source_word_index": 28
+    },
+    {
+      "aligned_index": 29,
+      "word": "beautiful",
+      "start": 14.896,
+      "end": 15.564,
+      "score": 0.858,
+      "valid": true,
+      "source_word_index": 29
+    },
+    {
+      "aligned_index": 30,
+      "word": "frame.",
+      "start": 15.697,
+      "end": 16.265,
+      "score": 0.975,
+      "valid": true,
+      "source_word_index": 30
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.82,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 13,
+      "time": 6.5,
+      "frame_file": "frame_000014.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 14,
+      "time": 7.0,
+      "frame_file": "frame_000015.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 15,
+      "time": 7.5,
+      "frame_file": "frame_000016.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 16,
+      "time": 8.0,
+      "frame_file": "frame_000017.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 17,
+      "time": 8.5,
+      "frame_file": "frame_000018.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 18,
+      "time": 9.0,
+      "frame_file": "frame_000019.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 19,
+      "time": 9.5,
+      "frame_file": "frame_000020.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 20,
+      "time": 10.0,
+      "frame_file": "frame_000021.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

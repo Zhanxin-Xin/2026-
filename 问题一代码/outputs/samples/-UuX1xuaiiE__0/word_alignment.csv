@@ -1,0 +1,10 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,^it's,0.042,0.27,0.388,True
+1,1,amazing,0.312,0.831,0.874,True
+2,2,to,0.915,1.039,0.846,True
+3,3,see,1.102,1.33,0.915,True
+4,4,their,1.372,1.559,0.73,True
+5,5,enthusiasm,1.601,2.349,0.875,True
+6,6,and,2.39,2.474,0.579,True
+7,7,their,2.494,2.661,0.792,True
+8,8,passion,2.681,3.076,0.955,True

@@ -1,0 +1,45 @@
+paths:
+  dataset_dir: dataset
+  labels_file: dataset/label-100.xlsx
+  labels_sheet: label
+  output_dir: outputs
+  ffmpeg: ffmpeg
+  ffprobe: ffprobe
+  openface_feature_extraction: /root/HuaWeiCup/tools/OpenFace/build/bin/FeatureExtraction
+
+columns:
+  video_id: video_id
+  clip_id: clip_id
+  text: text
+  intensity: label
+  polarity: annotation
+
+time:
+  window_seconds: 0.5
+  max_windows: 70
+  frame_fps: 2.0
+
+audio:
+  sample_rate: 16000
+  channels: 1
+  opensmile_feature_set: eGeMAPSv02
+  opensmile_feature_level: LowLevelDescriptors
+  silence_rms_threshold: 0.001
+
+text:
+  roberta_model: roberta-base
+  whisperx_language: en
+  whisperx_device: auto
+  whisperx_compute_type: auto
+  local_files_only: true
+  overlap_rule: duration_weighted_mean
+
+visual:
+  confidence_threshold: 0.80
+  openface_extra_args: []
+
+runtime:
+  overwrite: false
+  seed: 2026
+  expected_samples: 100
+  log_level: INFO

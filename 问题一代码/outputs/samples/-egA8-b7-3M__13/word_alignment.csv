@@ -1,0 +1,12 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,What,0.906,1.115,0.883,True
+1,1,are,1.15,1.324,0.83,True
+2,2,you,1.359,1.498,0.833,True
+3,3,doing,1.568,1.986,0.83,True
+4,4,that's,2.055,2.404,0.808,True
+5,5,"different?""",2.438,3.135,0.871,True
+6,6,They,4.076,4.32,0.932,True
+7,7,always,4.354,4.807,0.771,True
+8,8,want,4.877,5.26,0.814,True
+9,9,an,5.33,5.399,0.992,True
+10,10,answer.,5.574,6.026,0.876,True

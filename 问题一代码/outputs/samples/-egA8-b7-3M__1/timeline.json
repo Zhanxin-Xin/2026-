@@ -1,0 +1,376 @@
+{
+  "sample_key": "-egA8-b7-3M__1",
+  "video_path": "/root/HuaWeiCup/dataset/-egA8-b7-3M/1.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 11.534,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "I",
+      "start": 0.091,
+      "end": 0.341,
+      "score": 0.564,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "started",
+      "start": 1.456,
+      "end": 1.934,
+      "score": 0.885,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "a",
+      "start": 2.002,
+      "end": 2.025,
+      "score": 0.993,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "successful",
+      "start": 2.093,
+      "end": 2.775,
+      "score": 0.876,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "Legal",
+      "start": 2.844,
+      "end": 3.117,
+      "score": 0.958,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "Nurse",
+      "start": 3.162,
+      "end": 3.412,
+      "score": 0.756,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "Consulting",
+      "start": 3.435,
+      "end": 4.027,
+      "score": 0.913,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "Business",
+      "start": 4.072,
+      "end": 5.255,
+      "score": 0.926,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "in",
+      "start": 5.437,
+      "end": 5.847,
+      "score": 0.692,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "1989.",
+      "start": null,
+      "end": null,
+      "score": null,
+      "valid": false,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "I",
+      "start": 6.393,
+      "end": 6.529,
+      "score": 0.32,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "mentor",
+      "start": 7.439,
+      "end": 7.849,
+      "score": 0.742,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "nurses",
+      "start": 7.894,
+      "end": 8.326,
+      "score": 0.916,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "who",
+      "start": 8.372,
+      "end": 8.531,
+      "score": 0.765,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "want",
+      "start": 8.599,
+      "end": 8.872,
+      "score": 0.845,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "to",
+      "start": 8.918,
+      "end": 9.009,
+      "score": 0.733,
+      "valid": true,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "become",
+      "start": 9.054,
+      "end": 9.396,
+      "score": 0.905,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "Legal",
+      "start": 9.464,
+      "end": 9.737,
+      "score": 0.924,
+      "valid": true,
+      "source_word_index": 17
+    },
+    {
+      "aligned_index": 18,
+      "word": "Nurse",
+      "start": 9.76,
+      "end": 10.033,
+      "score": 0.76,
+      "valid": true,
+      "source_word_index": 18
+    },
+    {
+      "aligned_index": 19,
+      "word": "Consultants.",
+      "start": 10.078,
+      "end": 10.761,
+      "score": 0.856,
+      "valid": true,
+      "source_word_index": 19
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.82,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 13,
+      "time": 6.5,
+      "frame_file": "frame_000014.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 14,
+      "time": 7.0,
+      "frame_file": "frame_000015.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 15,
+      "time": 7.5,
+      "frame_file": "frame_000016.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 16,
+      "time": 8.0,
+      "frame_file": "frame_000017.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 17,
+      "time": 8.5,
+      "frame_file": "frame_000018.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 18,
+      "time": 9.0,
+      "frame_file": "frame_000019.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 19,
+      "time": 9.5,
+      "frame_file": "frame_000020.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true
+  ]
+}

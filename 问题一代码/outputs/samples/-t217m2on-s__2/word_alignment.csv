@@ -1,0 +1,13 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,But,0.741,1.026,0.526,True
+1,1,a,1.283,1.511,0.784,True
+2,2,good,2.053,2.252,0.986,True
+3,3,thing,2.281,2.48,0.817,True
+4,4,to,2.509,2.594,0.576,True
+5,5,do,2.651,2.765,0.976,True
+6,6,is,2.851,2.965,0.637,True
+7,7,"yawning,",3.022,3.678,0.853,True
+8,8,chewing,5.075,5.616,0.844,True
+9,9,gum,5.702,6.072,0.956,True
+10,10,is,6.158,6.3,0.728,True
+11,11,effective.,6.386,7.127,0.987,True

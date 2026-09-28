@@ -1,0 +1,10 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,I,0.146,0.585,0.768,True
+1,1,have,1.053,1.228,0.922,True
+2,2,lost,1.316,1.725,0.873,True
+3,3,at,1.93,2.018,0.98,True
+4,4,everything,2.457,3.071,0.873,True
+5,5,you,3.129,3.275,1.0,True
+6,6,can,3.334,3.539,0.918,True
+7,7,"imagine,",3.626,4.182,0.806,True
+8,8,seriously,4.387,4.942,0.568,True

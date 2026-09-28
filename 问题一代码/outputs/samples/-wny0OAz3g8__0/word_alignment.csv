@@ -1,0 +1,10 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,trade,0.327,0.511,0.871,True
+1,1,labor,0.552,0.757,0.87,True
+2,2,unions,0.839,1.105,0.79,True
+3,3,didn’t,1.166,1.411,0.736,True
+4,4,allow,1.473,1.718,0.893,True
+5,5,Black,1.8,2.025,0.876,True
+6,6,workers,2.045,2.352,0.851,True
+7,7,to,2.393,2.495,0.71,True
+8,8,join,2.536,2.741,0.959,True

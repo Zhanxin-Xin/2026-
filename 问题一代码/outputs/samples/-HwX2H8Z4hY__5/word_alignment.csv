@@ -1,0 +1,11 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,"""",,,,False
+1,1,President,1.662,2.576,0.864,True
+2,2,Ronald,2.742,3.407,0.838,True
+3,3,Reagan,3.532,4.362,0.842,True
+4,4,blamed,4.57,5.36,0.858,True
+5,5,the,5.484,5.692,0.885,True
+6,6,professional,5.775,7.063,0.948,True
+7,7,bureaucracy,7.188,8.725,0.868,True
+8,8,of,8.933,9.099,0.77,True
+9,9,education,9.265,10.345,0.909,True

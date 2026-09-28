@@ -1,0 +1,13 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,This,1.1,1.245,0.602,True
+1,1,is,1.287,1.349,0.336,True
+2,2,Rhett,1.39,1.577,0.734,True
+3,3,"Reiger,",1.639,1.971,0.802,True
+4,4,White,2.034,2.22,0.913,True
+5,5,Caspian,2.241,2.698,0.754,True
+6,6,Studios,2.718,3.196,0.836,True
+7,7,on,3.258,3.362,0.638,True
+8,8,behalf,3.382,3.714,0.877,True
+9,9,of,3.756,3.818,0.735,True
+10,10,Expert,3.901,4.212,0.955,True
+11,11,Village.,4.254,4.565,0.964,True

@@ -1,0 +1,13 @@
+{
+  "manifest_samples": 100,
+  "expected_samples": 100,
+  "successful_samples_checked": 100,
+  "structural_checks_passed": true,
+  "extraction_complete": true,
+  "aligned_words_valid": 1920,
+  "aligned_words_total": 1932,
+  "visual_frames_valid": 1411,
+  "visual_frames_total": 1570,
+  "problems": [],
+  "passed": true
+}

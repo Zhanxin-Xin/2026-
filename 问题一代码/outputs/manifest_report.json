@@ -1,0 +1,22 @@
+{
+  "label_rows": 100,
+  "expected_samples": 100,
+  "duplicate_keys": [],
+  "missing_videos": [],
+  "unlabelled_videos": [],
+  "matched": 100,
+  "label_columns": [
+    "video_id",
+    "clip_id",
+    "text",
+    "label",
+    "annotation"
+  ],
+  "empty_text_keys": [],
+  "invalid_intensity": [],
+  "polarity_values": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ]
+}

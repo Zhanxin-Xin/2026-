@@ -1,0 +1,6 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,They,0.024,0.215,0.604,True
+1,1,are,0.239,0.525,0.736,True
+2,2,all,0.692,0.859,0.75,True
+3,3,very,0.883,1.121,0.18,True
+4,4,safe,1.145,1.241,0.006,True

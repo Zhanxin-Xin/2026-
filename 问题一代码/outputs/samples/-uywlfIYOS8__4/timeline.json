@@ -1,0 +1,299 @@
+{
+  "sample_key": "-uywlfIYOS8__4",
+  "video_path": "/root/HuaWeiCup/dataset/-uywlfIYOS8/4.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 14.334,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "And",
+      "start": 0.342,
+      "end": 2.837,
+      "score": 0.368,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "then",
+      "start": 2.886,
+      "end": 3.18,
+      "score": 0.984,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "from",
+      "start": 3.327,
+      "end": 3.669,
+      "score": 0.854,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "a",
+      "start": 3.767,
+      "end": 3.865,
+      "score": 0.496,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "brand",
+      "start": 4.109,
+      "end": 4.99,
+      "score": 0.913,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "point",
+      "start": 5.186,
+      "end": 5.724,
+      "score": 0.77,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "of",
+      "start": 5.822,
+      "end": 5.92,
+      "score": 0.984,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "view,",
+      "start": 6.017,
+      "end": 6.311,
+      "score": 0.992,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "we",
+      "start": 6.458,
+      "end": 6.751,
+      "score": 0.994,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "need",
+      "start": 6.898,
+      "end": 7.436,
+      "score": 0.819,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "to",
+      "start": 7.534,
+      "end": 7.73,
+      "score": 0.702,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "make",
+      "start": 7.827,
+      "end": 8.17,
+      "score": 0.932,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "sure",
+      "start": 8.317,
+      "end": 8.61,
+      "score": 0.865,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "we're",
+      "start": 9.002,
+      "end": 9.442,
+      "score": 0.784,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "driving",
+      "start": 9.54,
+      "end": 10.274,
+      "score": 0.917,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "the",
+      "start": 10.371,
+      "end": 10.567,
+      "score": 0.833,
+      "valid": true,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "relevant",
+      "start": 10.665,
+      "end": 11.497,
+      "score": 0.557,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "insight.",
+      "start": 11.888,
+      "end": 12.866,
+      "score": 0.995,
+      "valid": true,
+      "source_word_index": 17
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

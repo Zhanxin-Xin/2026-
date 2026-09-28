@@ -1,0 +1,13 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,Say,1.511,1.914,0.897,True
+1,1,twenty,2.014,2.619,0.97,True
+2,2,percent,2.719,3.727,0.88,True
+3,3,so,3.978,4.532,0.883,True
+4,4,if,4.885,5.036,1.0,True
+5,5,you've,5.137,5.54,0.843,True
+6,6,got,5.64,5.892,0.826,True
+7,7,a,5.993,6.094,0.494,True
+8,8,thousand,6.194,7.0,0.895,True
+9,9,square,7.101,7.705,0.929,True
+10,10,foot,7.806,8.36,0.87,True
+11,11,condo.,9.266,10.122,0.947,True

@@ -1,0 +1,796 @@
+{
+  "sample_key": "-AUZQgSxyPQ__2",
+  "video_path": "/root/HuaWeiCup/dataset/-AUZQgSxyPQ/2.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 27.3,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "The",
+      "start": 0.61,
+      "end": 0.732,
+      "score": 0.98,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "perfect",
+      "start": 0.781,
+      "end": 1.195,
+      "score": 0.958,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "soul",
+      "start": 1.269,
+      "end": 1.561,
+      "score": 0.81,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "mate",
+      "start": 1.586,
+      "end": 1.879,
+      "score": 0.515,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "to",
+      "start": 1.952,
+      "end": 2.074,
+      "score": 0.851,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "the",
+      "start": 2.098,
+      "end": 2.196,
+      "score": 0.808,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "Clarisonic",
+      "start": 2.269,
+      "end": 3.098,
+      "score": 0.836,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "Spot",
+      "start": 3.782,
+      "end": 4.196,
+      "score": 0.938,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "Therapy",
+      "start": 4.343,
+      "end": 4.904,
+      "score": 0.647,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "Brush,",
+      "start": 4.928,
+      "end": 5.367,
+      "score": 0.925,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "this",
+      "start": 6.026,
+      "end": 6.221,
+      "score": 0.888,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "gentle,",
+      "start": 6.319,
+      "end": 6.904,
+      "score": 0.894,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "Ph",
+      "start": 7.075,
+      "end": 7.49,
+      "score": 0.816,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "balanced",
+      "start": 7.563,
+      "end": 8.075,
+      "score": 0.838,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "and",
+      "start": 8.222,
+      "end": 8.319,
+      "score": 0.677,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "hydrating",
+      "start": 8.417,
+      "end": 9.149,
+      "score": 0.92,
+      "valid": true,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "exfoliant",
+      "start": 9.32,
+      "end": 10.125,
+      "score": 0.782,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "containing",
+      "start": 10.686,
+      "end": 11.271,
+      "score": 0.669,
+      "valid": true,
+      "source_word_index": 17
+    },
+    {
+      "aligned_index": 18,
+      "word": "jojoba",
+      "start": 11.442,
+      "end": 12.198,
+      "score": 0.814,
+      "valid": true,
+      "source_word_index": 18
+    },
+    {
+      "aligned_index": 19,
+      "word": "and",
+      "start": 12.564,
+      "end": 12.686,
+      "score": 0.635,
+      "valid": true,
+      "source_word_index": 19
+    },
+    {
+      "aligned_index": 20,
+      "word": "acai",
+      "start": 12.76,
+      "end": 13.369,
+      "score": 0.803,
+      "valid": true,
+      "source_word_index": 20
+    },
+    {
+      "aligned_index": 21,
+      "word": "fruit",
+      "start": 13.589,
+      "end": 13.882,
+      "score": 0.865,
+      "valid": true,
+      "source_word_index": 21
+    },
+    {
+      "aligned_index": 22,
+      "word": "oils",
+      "start": 14.004,
+      "end": 14.272,
+      "score": 0.843,
+      "valid": true,
+      "source_word_index": 22
+    },
+    {
+      "aligned_index": 23,
+      "word": "and",
+      "start": 15.199,
+      "end": 15.37,
+      "score": 0.338,
+      "valid": true,
+      "source_word_index": 23
+    },
+    {
+      "aligned_index": 24,
+      "word": "bamboo",
+      "start": 15.492,
+      "end": 16.175,
+      "score": 0.934,
+      "valid": true,
+      "source_word_index": 24
+    },
+    {
+      "aligned_index": 25,
+      "word": "and",
+      "start": 16.541,
+      "end": 16.663,
+      "score": 0.75,
+      "valid": true,
+      "source_word_index": 25
+    },
+    {
+      "aligned_index": 26,
+      "word": "prickly",
+      "start": 16.761,
+      "end": 17.2,
+      "score": 0.834,
+      "valid": true,
+      "source_word_index": 26
+    },
+    {
+      "aligned_index": 27,
+      "word": "bear",
+      "start": 17.249,
+      "end": 17.639,
+      "score": 0.692,
+      "valid": true,
+      "source_word_index": 27
+    },
+    {
+      "aligned_index": 28,
+      "word": "extracts",
+      "start": 17.858,
+      "end": 19.371,
+      "score": 0.868,
+      "valid": true,
+      "source_word_index": 28
+    },
+    {
+      "aligned_index": 29,
+      "word": "deliver",
+      "start": 19.444,
+      "end": 19.981,
+      "score": 0.885,
+      "valid": true,
+      "source_word_index": 29
+    },
+    {
+      "aligned_index": 30,
+      "word": "intense",
+      "start": 20.127,
+      "end": 20.615,
+      "score": 0.881,
+      "valid": true,
+      "source_word_index": 30
+    },
+    {
+      "aligned_index": 31,
+      "word": "healing,",
+      "start": 20.688,
+      "end": 21.176,
+      "score": 0.821,
+      "valid": true,
+      "source_word_index": 31
+    },
+    {
+      "aligned_index": 32,
+      "word": "while",
+      "start": 21.738,
+      "end": 22.006,
+      "score": 0.797,
+      "valid": true,
+      "source_word_index": 32
+    },
+    {
+      "aligned_index": 33,
+      "word": "smooth",
+      "start": 22.103,
+      "end": 22.445,
+      "score": 0.852,
+      "valid": true,
+      "source_word_index": 33
+    },
+    {
+      "aligned_index": 34,
+      "word": "granules",
+      "start": 22.518,
+      "end": 23.104,
+      "score": 0.678,
+      "valid": true,
+      "source_word_index": 34
+    },
+    {
+      "aligned_index": 35,
+      "word": "buff",
+      "start": 23.25,
+      "end": 23.567,
+      "score": 0.912,
+      "valid": true,
+      "source_word_index": 35
+    },
+    {
+      "aligned_index": 36,
+      "word": "away",
+      "start": 23.616,
+      "end": 24.031,
+      "score": 0.914,
+      "valid": true,
+      "source_word_index": 36
+    },
+    {
+      "aligned_index": 37,
+      "word": "dead,",
+      "start": 24.543,
+      "end": 24.86,
+      "score": 0.959,
+      "valid": true,
+      "source_word_index": 37
+    },
+    {
+      "aligned_index": 38,
+      "word": "dry",
+      "start": 25.226,
+      "end": 25.763,
+      "score": 0.871,
+      "valid": true,
+      "source_word_index": 38
+    },
+    {
+      "aligned_index": 39,
+      "word": "skin",
+      "start": 25.861,
+      "end": 26.202,
+      "score": 0.95,
+      "valid": true,
+      "source_word_index": 39
+    },
+    {
+      "aligned_index": 40,
+      "word": "cells.",
+      "start": 26.251,
+      "end": 26.592,
+      "score": 0.591,
+      "valid": true,
+      "source_word_index": 40
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 13,
+      "time": 6.5,
+      "frame_file": "frame_000014.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 14,
+      "time": 7.0,
+      "frame_file": "frame_000015.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 15,
+      "time": 7.5,
+      "frame_file": "frame_000016.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 16,
+      "time": 8.0,
+      "frame_file": "frame_000017.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 17,
+      "time": 8.5,
+      "frame_file": "frame_000018.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 18,
+      "time": 9.0,
+      "frame_file": "frame_000019.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 19,
+      "time": 9.5,
+      "frame_file": "frame_000020.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 20,
+      "time": 10.0,
+      "frame_file": "frame_000021.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 21,
+      "time": 10.5,
+      "frame_file": "frame_000022.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 22,
+      "time": 11.0,
+      "frame_file": "frame_000023.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 23,
+      "time": 11.5,
+      "frame_file": "frame_000024.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 24,
+      "time": 12.0,
+      "frame_file": "frame_000025.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 25,
+      "time": 12.5,
+      "frame_file": "frame_000026.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 26,
+      "time": 13.0,
+      "frame_file": "frame_000027.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 27,
+      "time": 13.5,
+      "frame_file": "frame_000028.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 28,
+      "time": 14.0,
+      "frame_file": "frame_000029.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 29,
+      "time": 14.5,
+      "frame_file": "frame_000030.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 30,
+      "time": 15.0,
+      "frame_file": "frame_000031.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 31,
+      "time": 15.5,
+      "frame_file": "frame_000032.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 32,
+      "time": 16.0,
+      "frame_file": "frame_000033.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 33,
+      "time": 16.5,
+      "frame_file": "frame_000034.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 34,
+      "time": 17.0,
+      "frame_file": "frame_000035.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 35,
+      "time": 17.5,
+      "frame_file": "frame_000036.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 36,
+      "time": 18.0,
+      "frame_file": "frame_000037.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 37,
+      "time": 18.5,
+      "frame_file": "frame_000038.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 38,
+      "time": 19.0,
+      "frame_file": "frame_000039.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 39,
+      "time": 19.5,
+      "frame_file": "frame_000040.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 40,
+      "time": 20.0,
+      "frame_file": "frame_000041.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 41,
+      "time": 20.5,
+      "frame_file": "frame_000042.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 42,
+      "time": 21.0,
+      "frame_file": "frame_000043.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 43,
+      "time": 21.5,
+      "frame_file": "frame_000044.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 44,
+      "time": 22.0,
+      "frame_file": "frame_000045.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

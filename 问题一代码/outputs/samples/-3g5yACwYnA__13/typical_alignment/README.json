@@ -1,0 +1,15 @@
+{
+  "sample_key": "-3g5yACwYnA__13",
+  "source_video": "/root/HuaWeiCup/dataset/-3g5yACwYnA/13.mp4",
+  "window_seconds": 0.5,
+  "feature_file": "/root/HuaWeiCup/outputs/samples/-3g5yACwYnA__13/features.npz",
+  "word_alignment_file": "/root/HuaWeiCup/outputs/samples/-3g5yACwYnA__13/word_alignment.csv",
+  "table": "alignment_windows.csv",
+  "figure": "alignment_with_frames.png",
+  "frame_rule": "displayed frames are the real sequential 2 fps samples used by the visual pipeline; windows without a decoded frame remain invalid",
+  "feature_dimensions": {
+    "text": 768,
+    "audio": 50,
+    "visual": 465
+  }
+}

@@ -1,0 +1,15 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,In,0.93,1.577,0.357,True
+1,1,"2008,",,,,False
+2,2,there,2.892,3.033,0.928,True
+3,3,were,3.074,3.195,0.797,True
+4,4,very,3.296,3.579,0.843,True
+5,5,serious,3.68,4.125,0.876,True
+6,6,tribal,4.206,4.671,0.549,True
+7,7,warfare,4.772,5.338,0.836,True
+8,8,in,5.5,5.601,0.97,True
+9,9,Kenya,6.026,8.169,0.727,True
+10,10,following,9.079,9.463,0.904,True
+11,11,a,9.504,9.564,0.277,True
+12,12,disputed,9.605,10.07,0.872,True
+13,13,election.,10.131,10.515,0.951,True

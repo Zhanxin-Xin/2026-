@@ -1,0 +1,390 @@
+{
+  "sample_key": "-yRb-Jum7EQ__6",
+  "video_path": "/root/HuaWeiCup/dataset/-yRb-Jum7EQ/6.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 15.488,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "Therefore,",
+      "start": 0.552,
+      "end": 0.994,
+      "score": 0.267,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "the",
+      "start": 1.021,
+      "end": 1.187,
+      "score": 0.366,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "world",
+      "start": 1.215,
+      "end": 1.463,
+      "score": 0.538,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "needs",
+      "start": 1.518,
+      "end": 2.126,
+      "score": 0.49,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "to",
+      "start": 2.153,
+      "end": 2.402,
+      "score": 0.64,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "stand",
+      "start": 2.429,
+      "end": 2.816,
+      "score": 0.556,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "with",
+      "start": 3.064,
+      "end": 3.341,
+      "score": 0.38,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "Israel",
+      "start": 3.368,
+      "end": 3.948,
+      "score": 0.678,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "against",
+      "start": 5.245,
+      "end": 5.577,
+      "score": 0.391,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "this",
+      "start": 5.604,
+      "end": 5.798,
+      "score": 0.284,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "incitement,",
+      "start": 5.825,
+      "end": 6.764,
+      "score": 0.513,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "which",
+      "start": 7.482,
+      "end": 7.923,
+      "score": 0.593,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "is",
+      "start": 8.117,
+      "end": 8.227,
+      "score": 0.32,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "the",
+      "start": 8.255,
+      "end": 8.614,
+      "score": 0.572,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "number",
+      "start": 8.973,
+      "end": 9.414,
+      "score": 0.393,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "one",
+      "start": 9.442,
+      "end": 9.608,
+      "score": 0.435,
+      "valid": true,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "cause",
+      "start": 9.663,
+      "end": 10.022,
+      "score": 0.613,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "of",
+      "start": 10.298,
+      "end": 10.381,
+      "score": 0.598,
+      "valid": true,
+      "source_word_index": 17
+    },
+    {
+      "aligned_index": 18,
+      "word": "terrorism.",
+      "start": 10.408,
+      "end": 13.583,
+      "score": 0.619,
+      "valid": true,
+      "source_word_index": 18
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.82,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 13,
+      "time": 6.5,
+      "frame_file": "frame_000014.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 14,
+      "time": 7.0,
+      "frame_file": "frame_000015.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 15,
+      "time": 7.5,
+      "frame_file": "frame_000016.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 16,
+      "time": 8.0,
+      "frame_file": "frame_000017.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 17,
+      "time": 8.5,
+      "frame_file": "frame_000018.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 18,
+      "time": 9.0,
+      "frame_file": "frame_000019.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 19,
+      "time": 9.5,
+      "frame_file": "frame_000020.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 20,
+      "time": 10.0,
+      "frame_file": "frame_000021.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 21,
+      "time": 10.5,
+      "frame_file": "frame_000022.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

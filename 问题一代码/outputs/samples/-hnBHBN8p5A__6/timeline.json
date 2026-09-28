@@ -1,0 +1,256 @@
+{
+  "sample_key": "-hnBHBN8p5A__6",
+  "video_path": "/root/HuaWeiCup/dataset/-hnBHBN8p5A/6.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 11.429,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "Discussion,",
+      "start": 0.434,
+      "end": 1.157,
+      "score": 0.373,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "how",
+      "start": 1.23,
+      "end": 1.555,
+      "score": 0.826,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "to",
+      "start": 1.591,
+      "end": 1.664,
+      "score": 0.144,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "discuss",
+      "start": 1.7,
+      "end": 2.17,
+      "score": 0.649,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "ideas",
+      "start": 2.206,
+      "end": 2.387,
+      "score": 0.0,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "and",
+      "start": 2.568,
+      "end": 2.821,
+      "score": 0.267,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "opinions",
+      "start": 2.857,
+      "end": 3.219,
+      "score": 0.059,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "more",
+      "start": 3.255,
+      "end": 3.4,
+      "score": 0.032,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "effectively",
+      "start": 3.472,
+      "end": 4.015,
+      "score": 0.24,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "than",
+      "start": 6.836,
+      "end": 7.089,
+      "score": 0.169,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "a",
+      "start": 7.161,
+      "end": 7.234,
+      "score": 0.2,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "native",
+      "start": 7.27,
+      "end": 7.595,
+      "score": 0.219,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "speaker",
+      "start": 7.631,
+      "end": 8.138,
+      "score": 0.571,
+      "valid": true,
+      "source_word_index": 12
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.62,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

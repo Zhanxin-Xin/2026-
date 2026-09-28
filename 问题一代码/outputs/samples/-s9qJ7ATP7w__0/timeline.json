@@ -1,0 +1,354 @@
+{
+  "sample_key": "-s9qJ7ATP7w__0",
+  "video_path": "/root/HuaWeiCup/dataset/-s9qJ7ATP7w/0.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 6.867,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "they",
+      "start": 0.02,
+      "end": 0.164,
+      "score": 0.21,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "have",
+      "start": 0.184,
+      "end": 0.287,
+      "score": 0.377,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "doubt,",
+      "start": 0.348,
+      "end": 0.656,
+      "score": 0.781,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "they",
+      "start": 0.697,
+      "end": 0.84,
+      "score": 0.986,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "have",
+      "start": 0.881,
+      "end": 0.984,
+      "score": 0.69,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "fear,",
+      "start": 1.107,
+      "end": 1.435,
+      "score": 0.867,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "they",
+      "start": 1.763,
+      "end": 1.886,
+      "score": 0.887,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "lose",
+      "start": 1.947,
+      "end": 2.173,
+      "score": 0.818,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "in",
+      "start": 2.214,
+      "end": 2.296,
+      "score": 0.669,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "a",
+      "start": 2.316,
+      "end": 2.357,
+      "score": 0.433,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "Ferrari",
+      "start": 2.398,
+      "end": 2.87,
+      "score": 0.694,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "race,",
+      "start": 2.911,
+      "end": 3.177,
+      "score": 0.852,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "or",
+      "start": 3.218,
+      "end": 3.3,
+      "score": 0.928,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "they",
+      "start": 3.341,
+      "end": 3.444,
+      "score": 0.443,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "lose",
+      "start": 3.505,
+      "end": 3.792,
+      "score": 0.926,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "in",
+      "start": 3.895,
+      "end": 4.018,
+      "score": 0.635,
+      "valid": true,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "a",
+      "start": 4.202,
+      "end": 4.325,
+      "score": 0.795,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "race,",
+      "start": 4.633,
+      "end": 4.92,
+      "score": 0.894,
+      "valid": true,
+      "source_word_index": 17
+    },
+    {
+      "aligned_index": 18,
+      "word": "and",
+      "start": 5.309,
+      "end": 5.391,
+      "score": 0.863,
+      "valid": true,
+      "source_word_index": 18
+    },
+    {
+      "aligned_index": 19,
+      "word": "then",
+      "start": 5.412,
+      "end": 5.535,
+      "score": 0.889,
+      "valid": true,
+      "source_word_index": 19
+    },
+    {
+      "aligned_index": 20,
+      "word": "they",
+      "start": 5.555,
+      "end": 5.699,
+      "score": 0.98,
+      "valid": true,
+      "source_word_index": 20
+    },
+    {
+      "aligned_index": 21,
+      "word": "just",
+      "start": 5.719,
+      "end": 5.883,
+      "score": 0.86,
+      "valid": true,
+      "source_word_index": 21
+    },
+    {
+      "aligned_index": 22,
+      "word": "give",
+      "start": 5.924,
+      "end": 6.088,
+      "score": 0.873,
+      "valid": true,
+      "source_word_index": 22
+    },
+    {
+      "aligned_index": 23,
+      "word": "up",
+      "start": 6.232,
+      "end": 6.273,
+      "score": 0.996,
+      "valid": true,
+      "source_word_index": 23
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 13,
+      "time": 6.5,
+      "frame_file": "frame_000014.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ]
+}

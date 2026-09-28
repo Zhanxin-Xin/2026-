@@ -1,0 +1,9 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,”,,,,False
+1,1,[President,0.167,0.711,0.284,True
+2,2,Ronald,0.752,1.463,0.642,True
+3,3,Reagan:],1.505,1.756,0.0,True
+4,4,"""Look",5.643,5.977,0.917,True
+5,5,at,6.019,6.103,0.998,True
+6,6,the,6.186,6.354,0.831,True
+7,7,record,6.479,6.981,0.896,True

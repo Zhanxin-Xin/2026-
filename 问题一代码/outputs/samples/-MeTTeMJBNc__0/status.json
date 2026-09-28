@@ -1,0 +1,100 @@
+{
+  "sample_key": "-MeTTeMJBNc__0",
+  "video_id": "-MeTTeMJBNc",
+  "clip_id": "0",
+  "source_row": 82,
+  "video_path": "/root/HuaWeiCup/dataset/-MeTTeMJBNc/0.mp4",
+  "signature": "747daebfb287450d",
+  "status": "success",
+  "warnings": [],
+  "errors": [],
+  "stages": {
+    "probe": "success",
+    "audio_decode": "success",
+    "text": "success",
+    "audio": "success",
+    "visual": "success"
+  },
+  "tool_versions": {
+    "python": "3.8.20 (default, Oct  3 2024, 15:24:27) \n[GCC 11.2.0]",
+    "platform": "Linux-5.4.0-156-generic-x86_64-with-glibc2.17",
+    "commands": {
+      "ffmpeg": {
+        "configured": "ffmpeg",
+        "path": "/usr/bin/ffmpeg",
+        "available": true,
+        "version_output": [
+          "ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers",
+          "built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)"
+        ]
+      },
+      "ffprobe": {
+        "configured": "ffprobe",
+        "path": "/usr/bin/ffprobe",
+        "available": true,
+        "version_output": [
+          "ffprobe version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2007-2021 the FFmpeg developers",
+          "built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)"
+        ]
+      },
+      "openface_feature_extraction": {
+        "configured": "/root/HuaWeiCup/tools/OpenFace/build/bin/FeatureExtraction",
+        "path": "/root/HuaWeiCup/tools/OpenFace/build/bin/FeatureExtraction",
+        "available": true,
+        "version_output": [
+          "OpenFace 2.2.0 (pinned source build)"
+        ]
+      }
+    },
+    "packages": {
+      "numpy": {
+        "available": true,
+        "version": "1.24.3"
+      },
+      "yaml": {
+        "available": true,
+        "version": "6.0.3"
+      },
+      "torch": {
+        "available": true,
+        "version": "2.4.1"
+      },
+      "transformers": {
+        "available": true,
+        "version": "4.39.3"
+      },
+      "whisperx": {
+        "available": true,
+        "version": "3.2.0"
+      },
+      "opensmile": {
+        "available": true,
+        "version": "2.5.0"
+      },
+      "pandas": {
+        "available": true,
+        "version": "2.0.3"
+      },
+      "openpyxl": {
+        "available": true,
+        "version": "3.1.5"
+      },
+      "soundfile": {
+        "available": true,
+        "version": "0.12.1"
+      },
+      "matplotlib": {
+        "available": true,
+        "version": "3.7.5"
+      }
+    }
+  },
+  "duration_seconds": 9.334,
+  "valid_length": 19,
+  "text_dim": 768,
+  "audio_dim": 50,
+  "visual_dim": 465,
+  "text_valid_windows": 16,
+  "audio_valid_windows": 19,
+  "visual_valid_windows": 17
+}

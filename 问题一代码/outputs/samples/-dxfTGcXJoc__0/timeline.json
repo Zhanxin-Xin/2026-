@@ -1,0 +1,751 @@
+{
+  "sample_key": "-dxfTGcXJoc__0",
+  "video_path": "/root/HuaWeiCup/dataset/-dxfTGcXJoc/0.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 20.534,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "This",
+      "start": 0.584,
+      "end": 0.725,
+      "score": 0.919,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "is",
+      "start": 0.785,
+      "end": 0.866,
+      "score": 0.668,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "Governor",
+      "start": 0.906,
+      "end": 1.228,
+      "score": 0.888,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "Steve",
+      "start": 1.288,
+      "end": 1.59,
+      "score": 0.897,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "Beshear",
+      "start": 1.611,
+      "end": 2.074,
+      "score": 0.757,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "...",
+      "start": null,
+      "end": null,
+      "score": null,
+      "valid": false,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "About",
+      "start": 2.637,
+      "end": 2.899,
+      "score": 0.929,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "Kentucky",
+      "start": 2.959,
+      "end": 3.442,
+      "score": 0.889,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "Our",
+      "start": 4.489,
+      "end": 4.59,
+      "score": 0.832,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "state",
+      "start": 4.65,
+      "end": 4.952,
+      "score": 0.808,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "is",
+      "start": 5.013,
+      "end": 5.093,
+      "score": 0.668,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "home",
+      "start": 5.174,
+      "end": 5.496,
+      "score": 0.711,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "to",
+      "start": 5.576,
+      "end": 5.677,
+      "score": 0.809,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "more",
+      "start": 5.737,
+      "end": 5.919,
+      "score": 0.867,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "than",
+      "start": 5.959,
+      "end": 6.12,
+      "score": 0.754,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "1,500",
+      "start": null,
+      "end": null,
+      "score": null,
+      "valid": false,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "bioscience",
+      "start": 7.328,
+      "end": 8.153,
+      "score": 0.743,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "and",
+      "start": 8.314,
+      "end": 8.415,
+      "score": 0.821,
+      "valid": true,
+      "source_word_index": 17
+    },
+    {
+      "aligned_index": 18,
+      "word": "lifescience",
+      "start": 8.516,
+      "end": 9.099,
+      "score": 0.868,
+      "valid": true,
+      "source_word_index": 18
+    },
+    {
+      "aligned_index": 19,
+      "word": "companies",
+      "start": 9.16,
+      "end": 9.583,
+      "score": 0.964,
+      "valid": true,
+      "source_word_index": 19
+    },
+    {
+      "aligned_index": 20,
+      "word": "and",
+      "start": 10.146,
+      "end": 10.227,
+      "score": 0.953,
+      "valid": true,
+      "source_word_index": 20
+    },
+    {
+      "aligned_index": 21,
+      "word": "more",
+      "start": 10.287,
+      "end": 10.448,
+      "score": 0.772,
+      "valid": true,
+      "source_word_index": 21
+    },
+    {
+      "aligned_index": 22,
+      "word": "than",
+      "start": 10.468,
+      "end": 10.609,
+      "score": 0.808,
+      "valid": true,
+      "source_word_index": 22
+    },
+    {
+      "aligned_index": 23,
+      "word": "100,000",
+      "start": null,
+      "end": null,
+      "score": null,
+      "valid": false,
+      "source_word_index": 23
+    },
+    {
+      "aligned_index": 24,
+      "word": "people",
+      "start": 11.636,
+      "end": 11.958,
+      "score": 0.813,
+      "valid": true,
+      "source_word_index": 24
+    },
+    {
+      "aligned_index": 25,
+      "word": "who",
+      "start": 12.139,
+      "end": 12.3,
+      "score": 0.761,
+      "valid": true,
+      "source_word_index": 25
+    },
+    {
+      "aligned_index": 26,
+      "word": "work",
+      "start": 12.341,
+      "end": 12.542,
+      "score": 0.853,
+      "valid": true,
+      "source_word_index": 26
+    },
+    {
+      "aligned_index": 27,
+      "word": "for",
+      "start": 12.562,
+      "end": 12.663,
+      "score": 0.678,
+      "valid": true,
+      "source_word_index": 27
+    },
+    {
+      "aligned_index": 28,
+      "word": "these",
+      "start": 12.683,
+      "end": 12.864,
+      "score": 0.769,
+      "valid": true,
+      "source_word_index": 28
+    },
+    {
+      "aligned_index": 29,
+      "word": "firms,",
+      "start": 12.904,
+      "end": 13.307,
+      "score": 0.846,
+      "valid": true,
+      "source_word_index": 29
+    },
+    {
+      "aligned_index": 30,
+      "word": "in",
+      "start": 14.032,
+      "end": 14.112,
+      "score": 0.888,
+      "valid": true,
+      "source_word_index": 30
+    },
+    {
+      "aligned_index": 31,
+      "word": "areas",
+      "start": 14.273,
+      "end": 14.636,
+      "score": 0.822,
+      "valid": true,
+      "source_word_index": 31
+    },
+    {
+      "aligned_index": 32,
+      "word": "from",
+      "start": 14.736,
+      "end": 14.978,
+      "score": 0.733,
+      "valid": true,
+      "source_word_index": 32
+    },
+    {
+      "aligned_index": 33,
+      "word": "nutrigenomics",
+      "start": 15.28,
+      "end": 16.206,
+      "score": 0.843,
+      "valid": true,
+      "source_word_index": 33
+    },
+    {
+      "aligned_index": 34,
+      "word": "and",
+      "start": 16.367,
+      "end": 16.467,
+      "score": 0.83,
+      "valid": true,
+      "source_word_index": 34
+    },
+    {
+      "aligned_index": 35,
+      "word": "pharmaceuticals",
+      "start": 16.528,
+      "end": 17.353,
+      "score": 0.724,
+      "valid": true,
+      "source_word_index": 35
+    },
+    {
+      "aligned_index": 36,
+      "word": "to",
+      "start": 17.756,
+      "end": 17.857,
+      "score": 0.716,
+      "valid": true,
+      "source_word_index": 36
+    },
+    {
+      "aligned_index": 37,
+      "word": "nanotechnology",
+      "start": 17.897,
+      "end": 18.903,
+      "score": 0.901,
+      "valid": true,
+      "source_word_index": 37
+    },
+    {
+      "aligned_index": 38,
+      "word": "and",
+      "start": 18.944,
+      "end": 19.024,
+      "score": 0.821,
+      "valid": true,
+      "source_word_index": 38
+    },
+    {
+      "aligned_index": 39,
+      "word": "medical",
+      "start": 19.064,
+      "end": 19.366,
+      "score": 0.943,
+      "valid": true,
+      "source_word_index": 39
+    },
+    {
+      "aligned_index": 40,
+      "word": "devices.",
+      "start": 19.407,
+      "end": 19.89,
+      "score": 0.929,
+      "valid": true,
+      "source_word_index": 40
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.0,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 13,
+      "time": 6.5,
+      "frame_file": "frame_000014.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 14,
+      "time": 7.0,
+      "frame_file": "frame_000015.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 15,
+      "time": 7.5,
+      "frame_file": "frame_000016.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 16,
+      "time": 8.0,
+      "frame_file": "frame_000017.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 17,
+      "time": 8.5,
+      "frame_file": "frame_000018.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 18,
+      "time": 9.0,
+      "frame_file": "frame_000019.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 19,
+      "time": 9.5,
+      "frame_file": "frame_000020.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 20,
+      "time": 10.0,
+      "frame_file": "frame_000021.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 21,
+      "time": 10.5,
+      "frame_file": "frame_000022.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 22,
+      "time": 11.0,
+      "frame_file": "frame_000023.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 23,
+      "time": 11.5,
+      "frame_file": "frame_000024.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 24,
+      "time": 12.0,
+      "frame_file": "frame_000025.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 25,
+      "time": 12.5,
+      "frame_file": "frame_000026.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 26,
+      "time": 13.0,
+      "frame_file": "frame_000027.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 27,
+      "time": 13.5,
+      "frame_file": "frame_000028.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 28,
+      "time": 14.0,
+      "frame_file": "frame_000029.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 29,
+      "time": 14.5,
+      "frame_file": "frame_000030.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 30,
+      "time": 15.0,
+      "frame_file": "frame_000031.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 31,
+      "time": 15.5,
+      "frame_file": "frame_000032.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 32,
+      "time": 16.0,
+      "frame_file": "frame_000033.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 33,
+      "time": 16.5,
+      "frame_file": "frame_000034.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 34,
+      "time": 17.0,
+      "frame_file": "frame_000035.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 35,
+      "time": 17.5,
+      "frame_file": "frame_000036.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 36,
+      "time": 18.0,
+      "frame_file": "frame_000037.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 37,
+      "time": 18.5,
+      "frame_file": "frame_000038.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 38,
+      "time": 19.0,
+      "frame_file": "frame_000039.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 39,
+      "time": 19.5,
+      "frame_file": "frame_000040.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 40,
+      "time": 20.0,
+      "frame_file": "frame_000041.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true
+  ]
+}

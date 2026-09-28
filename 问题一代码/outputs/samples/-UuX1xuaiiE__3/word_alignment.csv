@@ -1,0 +1,10 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,My,1.481,1.799,0.841,True
+1,1,goal,1.852,2.698,0.751,True
+2,2,is,3.227,3.492,0.772,True
+3,3,to,3.545,4.497,0.274,True
+4,4,become,4.55,5.502,0.884,True
+5,5,a,6.931,7.036,0.694,True
+6,6,human,7.142,7.724,0.897,True
+7,7,rights,7.83,8.359,0.863,True
+8,8,lawyer,8.571,9.258,0.901,True

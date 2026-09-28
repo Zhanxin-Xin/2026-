@@ -1,0 +1,8 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,And,1.17,1.378,0.701,True
+1,1,in,1.42,1.546,0.764,True
+2,2,"part,",1.754,2.465,0.886,True
+3,3,Al,3.216,3.467,0.907,True
+4,4,Shanker,3.592,4.511,0.695,True
+5,5,did,4.72,5.054,0.998,True
+6,6,too,5.263,5.639,0.979,True

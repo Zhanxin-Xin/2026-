@@ -1,0 +1,13 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,First,0.678,1.096,0.773,True
+1,1,exhibiting,1.357,2.061,0.794,True
+2,2,is,2.139,2.296,0.625,True
+3,3,a,2.348,2.374,0.973,True
+4,4,wonderful,2.531,3.183,0.872,True
+5,5,opportunity,3.313,4.174,0.869,True
+6,6,to,4.278,4.435,0.734,True
+7,7,network,4.539,5.087,0.895,True
+8,8,with,5.165,5.348,0.888,True
+9,9,other,5.557,5.844,0.699,True
+10,10,legal,6.0,6.391,0.758,True
+11,11,vendors.,6.47,7.018,0.719,True

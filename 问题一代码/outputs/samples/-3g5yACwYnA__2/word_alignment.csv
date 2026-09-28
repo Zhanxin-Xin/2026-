@@ -1,0 +1,15 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,Key,2.872,4.076,0.883,True
+1,1,Polymer,4.724,5.218,0.599,True
+2,2,brings,5.249,5.558,0.911,True
+3,3,a,5.65,5.743,0.881,True
+4,4,technical,5.805,6.484,0.864,True
+5,5,aspect,6.762,7.256,0.88,True
+6,6,to,7.287,7.626,0.888,True
+7,7,our,9.047,9.201,0.893,True
+8,8,operation,9.294,10.004,0.925,True
+9,9,that,10.035,10.251,0.894,True
+10,10,we,10.313,10.467,0.998,True
+11,11,don't,10.529,10.838,0.893,True
+12,12,have,10.868,11.146,0.745,True
+13,13,internally.,11.239,11.857,0.877,True

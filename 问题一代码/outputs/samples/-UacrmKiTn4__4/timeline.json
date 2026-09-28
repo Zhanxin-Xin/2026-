@@ -1,0 +1,223 @@
+{
+  "sample_key": "-UacrmKiTn4__4",
+  "video_path": "/root/HuaWeiCup/dataset/-UacrmKiTn4/4.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 6.223,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "Just",
+      "start": 0.721,
+      "end": 0.961,
+      "score": 0.87,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "given",
+      "start": 1.015,
+      "end": 1.309,
+      "score": 0.995,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "to",
+      "start": 1.362,
+      "end": 1.469,
+      "score": 0.571,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "their",
+      "start": 1.522,
+      "end": 1.736,
+      "score": 0.732,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "own",
+      "start": 1.843,
+      "end": 2.003,
+      "score": 0.778,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "devices",
+      "start": 2.057,
+      "end": 2.831,
+      "score": 0.868,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "they",
+      "start": 2.911,
+      "end": 3.098,
+      "score": 0.872,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "are",
+      "start": 3.152,
+      "end": 3.285,
+      "score": 0.877,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "not",
+      "start": 3.365,
+      "end": 3.606,
+      "score": 0.964,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "going",
+      "start": 3.686,
+      "end": 4.033,
+      "score": 0.985,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "to",
+      "start": 4.113,
+      "end": 4.22,
+      "score": 0.753,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "read",
+      "start": 4.3,
+      "end": 4.54,
+      "score": 0.82,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "the",
+      "start": 4.594,
+      "end": 4.701,
+      "score": 0.835,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "textbook.",
+      "start": 4.754,
+      "end": 5.448,
+      "score": 0.879,
+      "valid": true,
+      "source_word_index": 13
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true
+  ]
+}

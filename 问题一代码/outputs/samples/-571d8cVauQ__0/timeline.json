@@ -1,0 +1,211 @@
+{
+  "sample_key": "-571d8cVauQ__0",
+  "video_path": "/root/HuaWeiCup/dataset/-571d8cVauQ/0.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 5.167,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "This",
+      "start": 1.1,
+      "end": 1.245,
+      "score": 0.602,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "is",
+      "start": 1.287,
+      "end": 1.349,
+      "score": 0.336,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "Rhett",
+      "start": 1.39,
+      "end": 1.577,
+      "score": 0.734,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "Reiger,",
+      "start": 1.639,
+      "end": 1.971,
+      "score": 0.802,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "White",
+      "start": 2.034,
+      "end": 2.22,
+      "score": 0.913,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "Caspian",
+      "start": 2.241,
+      "end": 2.698,
+      "score": 0.754,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "Studios",
+      "start": 2.718,
+      "end": 3.196,
+      "score": 0.836,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "on",
+      "start": 3.258,
+      "end": 3.362,
+      "score": 0.638,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "behalf",
+      "start": 3.382,
+      "end": 3.714,
+      "score": 0.877,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "of",
+      "start": 3.756,
+      "end": 3.818,
+      "score": 0.735,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "Expert",
+      "start": 3.901,
+      "end": 4.212,
+      "score": 0.955,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "Village.",
+      "start": 4.254,
+      "end": 4.565,
+      "score": 0.964,
+      "valid": true,
+      "source_word_index": 11
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.77,
+      "success": true,
+      "valid": false
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true
+  ]
+}

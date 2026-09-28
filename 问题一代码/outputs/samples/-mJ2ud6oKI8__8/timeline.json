@@ -1,0 +1,193 @@
+{
+  "sample_key": "-mJ2ud6oKI8__8",
+  "video_path": "/root/HuaWeiCup/dataset/-mJ2ud6oKI8/8.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 8.662,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "Sometimes",
+      "start": 1.624,
+      "end": 2.082,
+      "score": 0.112,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "we",
+      "start": 2.124,
+      "end": 2.207,
+      "score": 0.0,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "have",
+      "start": 2.249,
+      "end": 2.415,
+      "score": 0.049,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "to",
+      "start": 2.54,
+      "end": 2.873,
+      "score": 0.494,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "stretch",
+      "start": 2.915,
+      "end": 3.373,
+      "score": 0.308,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "that",
+      "start": 3.456,
+      "end": 3.748,
+      "score": 0.436,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "joint",
+      "start": 3.79,
+      "end": 3.998,
+      "score": 0.0,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "that",
+      "start": 4.081,
+      "end": 4.289,
+      "score": 0.241,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "is",
+      "start": 4.331,
+      "end": 4.414,
+      "score": 0.194,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "already",
+      "start": 4.456,
+      "end": 4.747,
+      "score": 0.079,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "irritated",
+      "start": 4.831,
+      "end": 5.206,
+      "score": 0.139,
+      "valid": true,
+      "source_word_index": 10
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

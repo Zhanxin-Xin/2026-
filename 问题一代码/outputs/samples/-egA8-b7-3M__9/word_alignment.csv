@@ -1,0 +1,11 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,"Secondly,",1.153,2.266,0.926,True
+1,1,another,2.595,3.337,0.839,True
+2,2,goal,3.46,3.996,0.9,True
+3,3,of,4.037,4.161,0.748,True
+4,4,exhibiting,4.325,5.355,0.822,True
+5,5,is,5.603,5.809,0.662,True
+6,6,building,5.973,6.756,0.924,True
+7,7,your,6.838,7.168,0.869,True
+8,8,company,7.25,8.115,0.935,True
+9,9,image.,8.321,8.857,0.982,True

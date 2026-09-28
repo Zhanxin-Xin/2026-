@@ -1,0 +1,13 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,"How,",0.163,0.469,0.923,True
+1,1,at,0.897,0.978,0.833,True
+2,2,a,0.998,1.039,0.497,True
+3,3,particular,1.08,1.63,0.892,True
+4,4,moment,1.691,2.058,0.958,True
+5,5,in,2.119,2.201,0.988,True
+6,6,time—our,2.282,3.036,0.814,True
+7,7,moment,3.118,3.505,0.946,True
+8,8,in,3.586,3.668,0.992,True
+9,9,time—are,3.749,4.727,0.915,True
+10,10,they,4.788,5.013,0.872,True
+11,11,limited,5.522,5.95,0.94,True

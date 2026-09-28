@@ -1,0 +1,10 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,"Well,",0.058,0.261,0.354,True
+1,1,for,0.29,0.552,0.365,True
+2,2,"starters,",0.581,2.061,0.294,True
+3,3,let's,2.148,2.322,0.263,True
+4,4,look,2.351,2.642,0.479,True
+5,5,at,2.7,2.787,0.26,True
+6,6,the,2.816,2.903,0.0,True
+7,7,word,3.484,3.716,0.375,True
+8,8,"""power""",3.745,4.122,0.394,True

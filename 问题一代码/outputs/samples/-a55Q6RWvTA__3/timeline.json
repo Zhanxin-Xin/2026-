@@ -1,0 +1,995 @@
+{
+  "sample_key": "-a55Q6RWvTA__3",
+  "video_path": "/root/HuaWeiCup/dataset/-a55Q6RWvTA/3.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 22.617,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "And",
+      "start": 0.779,
+      "end": 0.923,
+      "score": 0.643,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "if",
+      "start": 0.943,
+      "end": 0.984,
+      "score": 0.0,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "you",
+      "start": 1.21,
+      "end": 1.394,
+      "score": 0.816,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "clip",
+      "start": 1.476,
+      "end": 1.763,
+      "score": 0.727,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "coupons,",
+      "start": 1.804,
+      "end": 2.645,
+      "score": 0.896,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "if",
+      "start": 2.768,
+      "end": 2.85,
+      "score": 0.838,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "you",
+      "start": 2.891,
+      "end": 3.035,
+      "score": 0.949,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "don't",
+      "start": 3.117,
+      "end": 3.363,
+      "score": 0.875,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "go",
+      "start": 3.424,
+      "end": 3.547,
+      "score": 0.999,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "out",
+      "start": 3.65,
+      "end": 3.773,
+      "score": 0.994,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "for",
+      "start": 3.834,
+      "end": 3.978,
+      "score": 0.832,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "dinner",
+      "start": 4.039,
+      "end": 4.47,
+      "score": 0.872,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "and",
+      "start": 4.573,
+      "end": 4.675,
+      "score": 0.829,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "movies",
+      "start": 4.778,
+      "end": 5.311,
+      "score": 0.888,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "and",
+      "start": 5.372,
+      "end": 5.475,
+      "score": 0.671,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "things",
+      "start": 5.516,
+      "end": 5.7,
+      "score": 0.967,
+      "valid": true,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "of",
+      "start": 5.741,
+      "end": 5.782,
+      "score": 0.719,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "that",
+      "start": 5.803,
+      "end": 5.987,
+      "score": 0.764,
+      "valid": true,
+      "source_word_index": 17
+    },
+    {
+      "aligned_index": 18,
+      "word": "nature",
+      "start": 6.049,
+      "end": 6.5,
+      "score": 0.688,
+      "valid": true,
+      "source_word_index": 18
+    },
+    {
+      "aligned_index": 19,
+      "word": "and",
+      "start": 7.115,
+      "end": 7.238,
+      "score": 0.803,
+      "valid": true,
+      "source_word_index": 19
+    },
+    {
+      "aligned_index": 20,
+      "word": "try",
+      "start": 7.361,
+      "end": 7.546,
+      "score": 0.84,
+      "valid": true,
+      "source_word_index": 20
+    },
+    {
+      "aligned_index": 21,
+      "word": "to",
+      "start": 7.566,
+      "end": 7.628,
+      "score": 0.752,
+      "valid": true,
+      "source_word_index": 21
+    },
+    {
+      "aligned_index": 22,
+      "word": "take",
+      "start": 7.689,
+      "end": 7.874,
+      "score": 0.761,
+      "valid": true,
+      "source_word_index": 22
+    },
+    {
+      "aligned_index": 23,
+      "word": "up",
+      "start": 7.935,
+      "end": 8.038,
+      "score": 0.787,
+      "valid": true,
+      "source_word_index": 23
+    },
+    {
+      "aligned_index": 24,
+      "word": "things",
+      "start": 8.161,
+      "end": 8.489,
+      "score": 0.807,
+      "valid": true,
+      "source_word_index": 24
+    },
+    {
+      "aligned_index": 25,
+      "word": "in",
+      "start": 8.571,
+      "end": 8.653,
+      "score": 0.841,
+      "valid": true,
+      "source_word_index": 25
+    },
+    {
+      "aligned_index": 26,
+      "word": "life",
+      "start": 8.756,
+      "end": 9.022,
+      "score": 0.792,
+      "valid": true,
+      "source_word_index": 26
+    },
+    {
+      "aligned_index": 27,
+      "word": "that,",
+      "start": 9.063,
+      "end": 9.248,
+      "score": 0.985,
+      "valid": true,
+      "source_word_index": 27
+    },
+    {
+      "aligned_index": 28,
+      "word": "well,",
+      "start": 9.309,
+      "end": 9.596,
+      "score": 0.884,
+      "valid": true,
+      "source_word_index": 28
+    },
+    {
+      "aligned_index": 29,
+      "word": "they",
+      "start": 9.699,
+      "end": 9.863,
+      "score": 0.839,
+      "valid": true,
+      "source_word_index": 29
+    },
+    {
+      "aligned_index": 30,
+      "word": "always",
+      "start": 9.883,
+      "end": 10.15,
+      "score": 0.792,
+      "valid": true,
+      "source_word_index": 30
+    },
+    {
+      "aligned_index": 31,
+      "word": "say,",
+      "start": 10.211,
+      "end": 10.437,
+      "score": 0.807,
+      "valid": true,
+      "source_word_index": 31
+    },
+    {
+      "aligned_index": 32,
+      "word": "\"the",
+      "start": 10.478,
+      "end": 10.56,
+      "score": 0.832,
+      "valid": true,
+      "source_word_index": 32
+    },
+    {
+      "aligned_index": 33,
+      "word": "best",
+      "start": 10.601,
+      "end": 10.806,
+      "score": 0.799,
+      "valid": true,
+      "source_word_index": 33
+    },
+    {
+      "aligned_index": 34,
+      "word": "things",
+      "start": 10.847,
+      "end": 11.073,
+      "score": 0.734,
+      "valid": true,
+      "source_word_index": 34
+    },
+    {
+      "aligned_index": 35,
+      "word": "in",
+      "start": 11.114,
+      "end": 11.196,
+      "score": 0.714,
+      "valid": true,
+      "source_word_index": 35
+    },
+    {
+      "aligned_index": 36,
+      "word": "life",
+      "start": 11.257,
+      "end": 11.462,
+      "score": 0.839,
+      "valid": true,
+      "source_word_index": 36
+    },
+    {
+      "aligned_index": 37,
+      "word": "are",
+      "start": 11.524,
+      "end": 11.647,
+      "score": 0.85,
+      "valid": true,
+      "source_word_index": 37
+    },
+    {
+      "aligned_index": 38,
+      "word": "free\".",
+      "start": 11.729,
+      "end": 12.057,
+      "score": 0.754,
+      "valid": true,
+      "source_word_index": 38
+    },
+    {
+      "aligned_index": 39,
+      "word": "Reading",
+      "start": 12.734,
+      "end": 13.041,
+      "score": 0.776,
+      "valid": true,
+      "source_word_index": 39
+    },
+    {
+      "aligned_index": 40,
+      "word": "a",
+      "start": 13.103,
+      "end": 13.164,
+      "score": 0.408,
+      "valid": true,
+      "source_word_index": 40
+    },
+    {
+      "aligned_index": 41,
+      "word": "book,",
+      "start": 13.226,
+      "end": 13.533,
+      "score": 0.878,
+      "valid": true,
+      "source_word_index": 41
+    },
+    {
+      "aligned_index": 42,
+      "word": "going",
+      "start": 14.743,
+      "end": 14.989,
+      "score": 0.818,
+      "valid": true,
+      "source_word_index": 42
+    },
+    {
+      "aligned_index": 43,
+      "word": "for",
+      "start": 15.01,
+      "end": 15.133,
+      "score": 0.843,
+      "valid": true,
+      "source_word_index": 43
+    },
+    {
+      "aligned_index": 44,
+      "word": "a",
+      "start": 15.174,
+      "end": 15.194,
+      "score": 0.961,
+      "valid": true,
+      "source_word_index": 44
+    },
+    {
+      "aligned_index": 45,
+      "word": "nice",
+      "start": 15.215,
+      "end": 15.481,
+      "score": 0.837,
+      "valid": true,
+      "source_word_index": 45
+    },
+    {
+      "aligned_index": 46,
+      "word": "walk,",
+      "start": 15.563,
+      "end": 15.891,
+      "score": 0.956,
+      "valid": true,
+      "source_word_index": 46
+    },
+    {
+      "aligned_index": 47,
+      "word": "and,",
+      "start": 15.932,
+      "end": 15.994,
+      "score": 0.651,
+      "valid": true,
+      "source_word_index": 47
+    },
+    {
+      "aligned_index": 48,
+      "word": "of",
+      "start": 16.014,
+      "end": 16.055,
+      "score": 0.628,
+      "valid": true,
+      "source_word_index": 48
+    },
+    {
+      "aligned_index": 49,
+      "word": "course,",
+      "start": 16.117,
+      "end": 16.322,
+      "score": 0.852,
+      "valid": true,
+      "source_word_index": 49
+    },
+    {
+      "aligned_index": 50,
+      "word": "combining",
+      "start": 16.363,
+      "end": 16.958,
+      "score": 0.858,
+      "valid": true,
+      "source_word_index": 50
+    },
+    {
+      "aligned_index": 51,
+      "word": "exercise",
+      "start": 17.06,
+      "end": 17.634,
+      "score": 0.866,
+      "valid": true,
+      "source_word_index": 51
+    },
+    {
+      "aligned_index": 52,
+      "word": "and",
+      "start": 17.675,
+      "end": 17.757,
+      "score": 0.841,
+      "valid": true,
+      "source_word_index": 52
+    },
+    {
+      "aligned_index": 53,
+      "word": "various",
+      "start": 17.798,
+      "end": 18.085,
+      "score": 0.841,
+      "valid": true,
+      "source_word_index": 53
+    },
+    {
+      "aligned_index": 54,
+      "word": "things",
+      "start": 18.126,
+      "end": 18.29,
+      "score": 0.931,
+      "valid": true,
+      "source_word_index": 54
+    },
+    {
+      "aligned_index": 55,
+      "word": "of",
+      "start": 18.311,
+      "end": 18.413,
+      "score": 0.266,
+      "valid": true,
+      "source_word_index": 55
+    },
+    {
+      "aligned_index": 56,
+      "word": "that",
+      "start": 18.434,
+      "end": 18.578,
+      "score": 0.549,
+      "valid": true,
+      "source_word_index": 56
+    },
+    {
+      "aligned_index": 57,
+      "word": "nature",
+      "start": 18.639,
+      "end": 19.029,
+      "score": 0.724,
+      "valid": true,
+      "source_word_index": 57
+    },
+    {
+      "aligned_index": 58,
+      "word": "where",
+      "start": 19.418,
+      "end": 19.541,
+      "score": 0.754,
+      "valid": true,
+      "source_word_index": 58
+    },
+    {
+      "aligned_index": 59,
+      "word": "you're",
+      "start": 19.582,
+      "end": 19.746,
+      "score": 0.822,
+      "valid": true,
+      "source_word_index": 59
+    },
+    {
+      "aligned_index": 60,
+      "word": "not",
+      "start": 19.767,
+      "end": 19.91,
+      "score": 0.939,
+      "valid": true,
+      "source_word_index": 60
+    },
+    {
+      "aligned_index": 61,
+      "word": "spending",
+      "start": 20.054,
+      "end": 20.567,
+      "score": 0.828,
+      "valid": true,
+      "source_word_index": 61
+    },
+    {
+      "aligned_index": 62,
+      "word": "money",
+      "start": 20.792,
+      "end": 21.1,
+      "score": 0.731,
+      "valid": true,
+      "source_word_index": 62
+    },
+    {
+      "aligned_index": 63,
+      "word": "per",
+      "start": 21.12,
+      "end": 21.182,
+      "score": 0.0,
+      "valid": true,
+      "source_word_index": 63
+    },
+    {
+      "aligned_index": 64,
+      "word": "se.",
+      "start": 21.366,
+      "end": 21.53,
+      "score": 0.888,
+      "valid": true,
+      "source_word_index": 64
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 13,
+      "time": 6.5,
+      "frame_file": "frame_000014.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 14,
+      "time": 7.0,
+      "frame_file": "frame_000015.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 15,
+      "time": 7.5,
+      "frame_file": "frame_000016.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 16,
+      "time": 8.0,
+      "frame_file": "frame_000017.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 17,
+      "time": 8.5,
+      "frame_file": "frame_000018.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 18,
+      "time": 9.0,
+      "frame_file": "frame_000019.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 19,
+      "time": 9.5,
+      "frame_file": "frame_000020.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 20,
+      "time": 10.0,
+      "frame_file": "frame_000021.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 21,
+      "time": 10.5,
+      "frame_file": "frame_000022.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 22,
+      "time": 11.0,
+      "frame_file": "frame_000023.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 23,
+      "time": 11.5,
+      "frame_file": "frame_000024.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 24,
+      "time": 12.0,
+      "frame_file": "frame_000025.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 25,
+      "time": 12.5,
+      "frame_file": "frame_000026.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 26,
+      "time": 13.0,
+      "frame_file": "frame_000027.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 27,
+      "time": 13.5,
+      "frame_file": "frame_000028.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 28,
+      "time": 14.0,
+      "frame_file": "frame_000029.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 29,
+      "time": 14.5,
+      "frame_file": "frame_000030.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 30,
+      "time": 15.0,
+      "frame_file": "frame_000031.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 31,
+      "time": 15.5,
+      "frame_file": "frame_000032.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 32,
+      "time": 16.0,
+      "frame_file": "frame_000033.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 33,
+      "time": 16.5,
+      "frame_file": "frame_000034.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 34,
+      "time": 17.0,
+      "frame_file": "frame_000035.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 35,
+      "time": 17.5,
+      "frame_file": "frame_000036.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 36,
+      "time": 18.0,
+      "frame_file": "frame_000037.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 37,
+      "time": 18.5,
+      "frame_file": "frame_000038.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 38,
+      "time": 19.0,
+      "frame_file": "frame_000039.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 39,
+      "time": 19.5,
+      "frame_file": "frame_000040.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 40,
+      "time": 20.0,
+      "frame_file": "frame_000041.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 41,
+      "time": 20.5,
+      "frame_file": "frame_000042.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 42,
+      "time": 21.0,
+      "frame_file": "frame_000043.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 43,
+      "time": 21.5,
+      "frame_file": "frame_000044.png",
+      "confidence": 0.98,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true
+  ]
+}

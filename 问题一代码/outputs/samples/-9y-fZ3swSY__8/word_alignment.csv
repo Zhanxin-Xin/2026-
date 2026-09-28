@@ -1,0 +1,13 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,That’s,0.572,1.012,0.872,True
+1,1,a,1.275,1.319,0.835,True
+2,2,more,2.111,2.639,0.767,True
+3,3,decent,2.991,4.002,0.834,True
+4,4,and,4.618,4.794,0.831,True
+5,5,more,4.838,5.146,0.869,True
+6,6,polite,5.234,6.289,0.852,True
+7,7,way,6.421,6.773,0.892,True
+8,8,to,6.993,7.257,0.75,True
+9,9,call,7.345,7.96,0.961,True
+10,10,a,8.004,8.048,0.001,True
+11,11,lady,8.972,9.544,0.994,True

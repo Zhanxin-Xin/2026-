@@ -1,0 +1,6 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,Power,0.0,0.596,0.392,True
+1,1,is,0.639,0.724,0.0,True
+2,2,similar,2.767,3.619,0.318,True
+3,3,to,3.661,3.746,0.001,True
+4,4,strength,3.789,4.3,0.226,True

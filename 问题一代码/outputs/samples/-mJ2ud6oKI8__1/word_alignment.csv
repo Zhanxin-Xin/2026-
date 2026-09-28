@@ -1,0 +1,14 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,There,0.0,0.109,0.023,True
+1,1,are,0.131,0.196,0.026,True
+2,2,a,0.218,0.239,0.037,True
+3,3,dozen,0.261,0.37,0.011,True
+4,4,or,0.392,0.435,0.013,True
+5,5,more,0.457,0.544,0.015,True
+6,6,hands,0.566,0.675,0.016,True
+7,7,on,0.697,0.74,0.01,True
+8,8,techniques,0.762,0.98,0.018,True
+9,9,that,1.001,1.088,0.026,True
+10,10,we,1.11,1.154,0.016,True
+11,11,can,1.175,1.241,0.014,True
+12,12,do,1.263,1.306,0.01,True

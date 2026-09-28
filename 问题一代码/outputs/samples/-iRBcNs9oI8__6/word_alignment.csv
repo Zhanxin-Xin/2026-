@@ -1,0 +1,6 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,What,0.0,0.534,0.619,True
+1,1,is,0.747,0.854,0.0,True
+2,2,a,0.908,0.961,0.0,True
+3,3,power,1.014,1.388,0.186,True
+4,4,pose,1.495,1.762,0.375,True

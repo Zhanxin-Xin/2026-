@@ -1,0 +1,6 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,But,1.607,2.181,0.772,True
+1,1,I,3.558,3.788,0.821,True
+2,2,just,3.845,4.19,0.804,True
+3,3,kept,4.247,4.649,0.904,True
+4,4,going,4.706,5.28,0.804,True

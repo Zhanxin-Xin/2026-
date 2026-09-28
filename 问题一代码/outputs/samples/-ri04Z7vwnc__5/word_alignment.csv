@@ -1,0 +1,10 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,"""",,,,False
+1,1,So,0.105,0.209,0.18,True
+2,2,I,0.244,0.279,0.005,True
+3,3,think,0.314,0.593,0.363,True
+4,4,it's,0.767,0.977,0.166,True
+5,5,important,1.012,1.395,0.289,True
+6,6,to,1.43,1.5,0.0,True
+7,7,discuss,1.535,1.919,0.144,True
+8,8,finances,1.953,2.337,0.148,True

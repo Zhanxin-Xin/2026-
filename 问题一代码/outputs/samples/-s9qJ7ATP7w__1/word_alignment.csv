@@ -1,0 +1,12 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,But,1.274,2.406,0.648,True
+1,1,the,3.209,3.397,0.979,True
+2,2,hardest,3.492,4.105,0.939,True
+3,3,thing,4.152,4.483,0.905,True
+4,4,in,4.577,4.671,0.99,True
+5,5,life,4.766,5.143,0.757,True
+6,6,to,5.19,5.379,0.745,True
+7,7,"learn,",5.474,6.087,0.776,True
+8,8,is,7.408,7.597,0.86,True
+9,9,to,7.691,7.88,0.913,True
+10,10,lose,8.022,8.541,0.878,True

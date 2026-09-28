@@ -1,0 +1,12 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,Sometimes,1.624,2.082,0.112,True
+1,1,we,2.124,2.207,0.0,True
+2,2,have,2.249,2.415,0.049,True
+3,3,to,2.54,2.873,0.494,True
+4,4,stretch,2.915,3.373,0.308,True
+5,5,that,3.456,3.748,0.436,True
+6,6,joint,3.79,3.998,0.0,True
+7,7,that,4.081,4.289,0.241,True
+8,8,is,4.331,4.414,0.194,True
+9,9,already,4.456,4.747,0.079,True
+10,10,irritated,4.831,5.206,0.139,True

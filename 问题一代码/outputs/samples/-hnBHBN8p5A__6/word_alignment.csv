@@ -1,0 +1,14 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,"Discussion,",0.434,1.157,0.373,True
+1,1,how,1.23,1.555,0.826,True
+2,2,to,1.591,1.664,0.144,True
+3,3,discuss,1.7,2.17,0.649,True
+4,4,ideas,2.206,2.387,0.0,True
+5,5,and,2.568,2.821,0.267,True
+6,6,opinions,2.857,3.219,0.059,True
+7,7,more,3.255,3.4,0.032,True
+8,8,effectively,3.472,4.015,0.24,True
+9,9,than,6.836,7.089,0.169,True
+10,10,a,7.161,7.234,0.2,True
+11,11,native,7.27,7.595,0.219,True
+12,12,speaker,7.631,8.138,0.571,True

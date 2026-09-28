@@ -1,0 +1,16 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,They've,2.347,2.607,0.935,True
+1,1,been,2.64,2.803,0.998,True
+2,2,able,2.868,3.129,0.846,True
+3,3,to,3.194,3.357,0.929,True
+4,4,find,3.52,3.911,0.889,True
+5,5,solutions,3.944,4.791,0.897,True
+6,6,or,4.921,5.084,0.367,True
+7,7,at,5.149,5.28,0.592,True
+8,8,least,5.312,5.508,0.209,True
+9,9,bring,5.638,6.127,0.642,True
+10,10,some,6.192,6.486,0.912,True
+11,11,answers,6.616,7.072,0.772,True
+12,12,to,7.105,7.268,0.766,True
+13,13,the,7.3,7.431,0.813,True
+14,14,table.,7.496,7.887,0.99,True

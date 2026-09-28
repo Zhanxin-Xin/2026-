@@ -1,0 +1,25 @@
+{
+  "sample_key": "-dxfTGcXJoc__6",
+  "selection_reason": "auto-selected: all modalities valid; aligned-word completeness=100.0%, mean modality coverage=97.4%",
+  "source_video": "/root/HuaWeiCup/dataset/-dxfTGcXJoc/6.mp4",
+  "feature_file": "/root/HuaWeiCup/outputs/samples/-dxfTGcXJoc__6/features.npz",
+  "word_alignment_file": "/root/HuaWeiCup/outputs/samples/-dxfTGcXJoc__6/word_alignment.csv",
+  "time_range_seconds": [
+    0.0,
+    12.967000007629395
+  ],
+  "duration_seconds": 12.967000007629395,
+  "frame_times_seconds": [
+    0.0,
+    4.0,
+    8.0,
+    12.0
+  ],
+  "frame_labels": "sequential samples from the same 2-fps rule as feature extraction",
+  "acoustic_field": "F0semitoneFrom27.5Hz_sma3nz__mean",
+  "visual_field": "AU12_r",
+  "font": "DejaVu Sans / English labels",
+  "output_png": "/root/HuaWeiCup/outputs/typical_alignment_figure.png",
+  "output_pdf": "/root/HuaWeiCup/outputs/typical_alignment_figure.pdf",
+  "missing_elements": []
+}

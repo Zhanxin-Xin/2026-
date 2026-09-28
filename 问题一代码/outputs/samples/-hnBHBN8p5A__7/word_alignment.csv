@@ -1,0 +1,14 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,Picture,0.0,0.176,0.001,True
+1,1,"this,",0.201,0.302,0.0,True
+2,2,before,0.352,0.855,0.759,True
+3,3,we,0.93,1.081,0.65,True
+4,4,actually,1.106,1.307,0.0,True
+5,5,start,1.332,1.458,0.199,True
+6,6,"hacking,",1.483,2.187,0.536,True
+7,7,we’re,2.212,2.338,0.265,True
+8,8,in,2.363,2.514,0.884,True
+9,9,a,2.64,2.791,0.876,True
+10,10,room,2.841,3.042,0.349,True
+11,11,formal,4.425,4.651,0.289,True
+12,12,setting,4.701,5.129,0.508,True

@@ -1,0 +1,17 @@
+aligned_index,source_word_index,word,start,end,score,valid
+0,0,Structural,0.162,0.744,0.204,True
+1,1,mounts,0.938,1.197,0.096,True
+2,2,inside,1.229,1.649,0.394,True
+3,3,have,1.811,2.167,0.51,True
+4,4,to,2.199,2.361,0.478,True
+5,5,be,2.393,2.555,0.312,True
+6,6,properly,2.587,2.943,0.13,True
+7,7,stress,2.975,3.169,0.009,True
+8,8,analyzed,3.234,3.816,0.31,True
+9,9,so,3.849,3.913,0.005,True
+10,10,we,3.946,4.172,0.57,True
+11,11,make,4.204,4.431,0.19,True
+12,12,sure,4.463,4.722,0.257,True
+13,13,all,4.786,4.948,0.201,True
+14,14,that,4.98,5.207,0.174,True
+15,15,happens,5.304,5.757,0.248,True

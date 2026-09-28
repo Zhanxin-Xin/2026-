@@ -1,0 +1,402 @@
+{
+  "sample_key": "-s9qJ7ATP7w__7",
+  "video_path": "/root/HuaWeiCup/dataset/-s9qJ7ATP7w/7.mp4",
+  "window_seconds": 0.5,
+  "duration_seconds": 12.767,
+  "words": [
+    {
+      "aligned_index": 0,
+      "word": "I",
+      "start": 1.048,
+      "end": 1.198,
+      "score": 0.727,
+      "valid": true,
+      "source_word_index": 0
+    },
+    {
+      "aligned_index": 1,
+      "word": "used",
+      "start": 1.273,
+      "end": 1.46,
+      "score": 0.875,
+      "valid": true,
+      "source_word_index": 1
+    },
+    {
+      "aligned_index": 2,
+      "word": "to",
+      "start": 1.498,
+      "end": 1.61,
+      "score": 0.75,
+      "valid": true,
+      "source_word_index": 2
+    },
+    {
+      "aligned_index": 3,
+      "word": "work",
+      "start": 1.647,
+      "end": 1.909,
+      "score": 0.861,
+      "valid": true,
+      "source_word_index": 3
+    },
+    {
+      "aligned_index": 4,
+      "word": "for",
+      "start": 1.947,
+      "end": 2.134,
+      "score": 0.83,
+      "valid": true,
+      "source_word_index": 4
+    },
+    {
+      "aligned_index": 5,
+      "word": "Warren",
+      "start": 2.209,
+      "end": 2.658,
+      "score": 0.744,
+      "valid": true,
+      "source_word_index": 5
+    },
+    {
+      "aligned_index": 6,
+      "word": "Avis,",
+      "start": 2.696,
+      "end": 3.182,
+      "score": 0.853,
+      "valid": true,
+      "source_word_index": 6
+    },
+    {
+      "aligned_index": 7,
+      "word": "the",
+      "start": 3.594,
+      "end": 3.744,
+      "score": 0.848,
+      "valid": true,
+      "source_word_index": 7
+    },
+    {
+      "aligned_index": 8,
+      "word": "guy",
+      "start": 3.781,
+      "end": 4.006,
+      "score": 0.488,
+      "valid": true,
+      "source_word_index": 8
+    },
+    {
+      "aligned_index": 9,
+      "word": "who",
+      "start": 4.044,
+      "end": 4.193,
+      "score": 0.119,
+      "valid": true,
+      "source_word_index": 9
+    },
+    {
+      "aligned_index": 10,
+      "word": "started",
+      "start": 4.231,
+      "end": 4.717,
+      "score": 0.604,
+      "valid": true,
+      "source_word_index": 10
+    },
+    {
+      "aligned_index": 11,
+      "word": "Avis",
+      "start": 4.755,
+      "end": 5.167,
+      "score": 0.882,
+      "valid": true,
+      "source_word_index": 11
+    },
+    {
+      "aligned_index": 12,
+      "word": "Rent",
+      "start": 5.242,
+      "end": 5.541,
+      "score": 0.451,
+      "valid": true,
+      "source_word_index": 12
+    },
+    {
+      "aligned_index": 13,
+      "word": "a",
+      "start": 5.579,
+      "end": 5.691,
+      "score": 0.67,
+      "valid": true,
+      "source_word_index": 13
+    },
+    {
+      "aligned_index": 14,
+      "word": "Car,",
+      "start": 5.728,
+      "end": 5.953,
+      "score": 0.793,
+      "valid": true,
+      "source_word_index": 14
+    },
+    {
+      "aligned_index": 15,
+      "word": "and",
+      "start": 6.028,
+      "end": 6.178,
+      "score": 0.501,
+      "valid": true,
+      "source_word_index": 15
+    },
+    {
+      "aligned_index": 16,
+      "word": "he",
+      "start": 6.215,
+      "end": 6.327,
+      "score": 0.818,
+      "valid": true,
+      "source_word_index": 16
+    },
+    {
+      "aligned_index": 17,
+      "word": "said",
+      "start": 6.44,
+      "end": 6.777,
+      "score": 0.536,
+      "valid": true,
+      "source_word_index": 17
+    },
+    {
+      "aligned_index": 18,
+      "word": "to",
+      "start": 6.814,
+      "end": 6.889,
+      "score": 0.0,
+      "valid": true,
+      "source_word_index": 18
+    },
+    {
+      "aligned_index": 19,
+      "word": "me",
+      "start": 6.926,
+      "end": 7.076,
+      "score": 0.544,
+      "valid": true,
+      "source_word_index": 19
+    },
+    {
+      "aligned_index": 20,
+      "word": "one",
+      "start": 7.263,
+      "end": 7.451,
+      "score": 0.828,
+      "valid": true,
+      "source_word_index": 20
+    },
+    {
+      "aligned_index": 21,
+      "word": "day,",
+      "start": 7.525,
+      "end": 7.975,
+      "score": 0.754,
+      "valid": true,
+      "source_word_index": 21
+    },
+    {
+      "aligned_index": 22,
+      "word": "\"Robert,",
+      "start": 9.06,
+      "end": 9.585,
+      "score": 0.871,
+      "valid": true,
+      "source_word_index": 22
+    },
+    {
+      "aligned_index": 23,
+      "word": "\"what's",
+      "start": 9.659,
+      "end": 9.996,
+      "score": 0.842,
+      "valid": true,
+      "source_word_index": 23
+    },
+    {
+      "aligned_index": 24,
+      "word": "the",
+      "start": 10.071,
+      "end": 10.221,
+      "score": 0.85,
+      "valid": true,
+      "source_word_index": 24
+    },
+    {
+      "aligned_index": 25,
+      "word": "purpose",
+      "start": 10.296,
+      "end": 10.895,
+      "score": 0.813,
+      "valid": true,
+      "source_word_index": 25
+    },
+    {
+      "aligned_index": 26,
+      "word": "of",
+      "start": 10.932,
+      "end": 11.045,
+      "score": 0.745,
+      "valid": true,
+      "source_word_index": 26
+    },
+    {
+      "aligned_index": 27,
+      "word": "business",
+      "start": 11.12,
+      "end": 11.756,
+      "score": 0.993,
+      "valid": true,
+      "source_word_index": 27
+    }
+  ],
+  "frames": [
+    {
+      "window": 0,
+      "time": 0.0,
+      "frame_file": "frame_000001.png",
+      "confidence": 0.88,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 1,
+      "time": 0.5,
+      "frame_file": "frame_000002.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 2,
+      "time": 1.0,
+      "frame_file": "frame_000003.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 3,
+      "time": 1.5,
+      "frame_file": "frame_000004.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 4,
+      "time": 2.0,
+      "frame_file": "frame_000005.png",
+      "confidence": 0.03,
+      "success": false,
+      "valid": false
+    },
+    {
+      "window": 5,
+      "time": 2.5,
+      "frame_file": "frame_000006.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 6,
+      "time": 3.0,
+      "frame_file": "frame_000007.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 7,
+      "time": 3.5,
+      "frame_file": "frame_000008.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 8,
+      "time": 4.0,
+      "frame_file": "frame_000009.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 9,
+      "time": 4.5,
+      "frame_file": "frame_000010.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 10,
+      "time": 5.0,
+      "frame_file": "frame_000011.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 11,
+      "time": 5.5,
+      "frame_file": "frame_000012.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 12,
+      "time": 6.0,
+      "frame_file": "frame_000013.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    },
+    {
+      "window": 13,
+      "time": 6.5,
+      "frame_file": "frame_000014.png",
+      "confidence": 0.93,
+      "success": true,
+      "valid": true
+    }
+  ],
+  "audio_silence_windows": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}
